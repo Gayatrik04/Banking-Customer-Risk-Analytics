@@ -1,0 +1,101 @@
+branch_id,branch_name,city,state,region,employees
+B001,Howrah South,Howrah,West Bengal,East,168
+B002,Vijayawada City Center,Vijayawada,Andhra Pradesh,South,42
+B003,Ranchi Tech Park,Ranchi,Jharkhand,East,84
+B004,Siliguri South,Siliguri,West Bengal,East,103
+B005,Ludhiana Bypass,Ludhiana,Punjab,North,84
+B006,Visakhapatnam City Center,Visakhapatnam,Andhra Pradesh,South,48
+B007,Madurai South,Madurai,Tamil Nadu,South,71
+B008,Aurangabad City Center,Aurangabad,Maharashtra,West,167
+B009,New Delhi South,New Delhi,Delhi,North,150
+B010,Bhilai West,Bhilai,Chhattisgarh,Central,91
+B011,Cuttack Metro,Cuttack,Odisha,East,133
+B012,Agra South,Agra,Uttar Pradesh,North,46
+B013,Agra City Center,Agra,Uttar Pradesh,North,107
+B014,Mangaluru Central,Mangaluru,Karnataka,South,196
+B015,Bhubaneswar Expressway,Bhubaneswar,Odisha,East,114
+B016,Ranchi East,Ranchi,Jharkhand,East,131
+B017,Bhilai Hub,Bhilai,Chhattisgarh,Central,88
+B018,Agra Central,Agra,Uttar Pradesh,North,133
+B019,Gwalior Expressway,Gwalior,Madhya Pradesh,Central,137
+B020,Mumbai City Center,Mumbai,Maharashtra,West,85
+B021,Udaipur Central,Udaipur,Rajasthan,North,118
+B022,Bhilai Main,Bhilai,Chhattisgarh,Central,124
+B023,Bhopal West,Bhopal,Madhya Pradesh,Central,32
+B024,Madurai Industrial Estate,Madurai,Tamil Nadu,South,69
+B025,Nagpur Hub,Nagpur,Maharashtra,West,76
+B026,Hyderabad Central,Hyderabad,Telangana,South,68
+B027,Lucknow Expressway,Lucknow,Uttar Pradesh,North,216
+B028,New Delhi Expressway,New Delhi,Delhi,North,175
+B029,Chandigarh North,Chandigarh,Punjab,North,157
+B030,Amritsar East,Amritsar,Punjab,North,76
+B031,Guwahati Tech Park,Guwahati,Assam,East,204
+B032,Mumbai Central,Mumbai,Maharashtra,West,46
+B033,Nagpur Industrial Estate,Nagpur,Maharashtra,West,118
+B034,Udaipur Bypass,Udaipur,Rajasthan,North,143
+B035,Surat Expressway,Surat,Gujarat,West,210
+B036,Bhubaneswar Metro,Bhubaneswar,Odisha,East,184
+B037,Faridabad Metro,Faridabad,Haryana,North,193
+B038,Vadodara Expressway,Vadodara,Gujarat,West,75
+B039,Bhilai South,Bhilai,Chhattisgarh,Central,218
+B040,Dehradun City Center,Dehradun,Uttarakhand,North,65
+B041,Aurangabad North,Aurangabad,Maharashtra,West,109
+B042,Visakhapatnam Hub,Visakhapatnam,Andhra Pradesh,South,47
+B043,Nashik Tech Park,Nashik,Maharashtra,West,170
+B044,Guwahati West,Guwahati,Assam,East,148
+B045,Nashik South,Nashik,Maharashtra,West,101
+B046,Jamshedpur West,Jamshedpur,Jharkhand,East,53
+B047,Hyderabad North,Hyderabad,Telangana,South,94
+B048,Faridabad South,Faridabad,Haryana,North,138
+B049,Surat Tech Park,Surat,Gujarat,West,111
+B050,Coimbatore Central,Coimbatore,Tamil Nadu,South,101
+B051,Patna North,Patna,Bihar,East,33
+B052,Mumbai Expressway,Mumbai,Maharashtra,West,131
+B053,Bhubaneswar City Center,Bhubaneswar,Odisha,East,197
+B054,Kolkata Main,Kolkata,West Bengal,East,116
+B055,Coimbatore Metro,Coimbatore,Tamil Nadu,South,99
+B056,Chandigarh Expressway,Chandigarh,Punjab,North,80
+B057,Dehradun Industrial Estate,Dehradun,Uttarakhand,North,167
+B058,Thiruvananthapuram West,Thiruvananthapuram,Kerala,South,34
+B059,Vadodara East,Vadodara,Gujarat,West,118
+B060,Jamshedpur West,Jamshedpur,Jharkhand,East,133
+B061,Lucknow Expressway,Lucknow,Uttar Pradesh,North,43
+B062,Gwalior South,Gwalior,Madhya Pradesh,Central,162
+B063,Thane South,Thane,Maharashtra,West,67
+B064,Ranchi Central,Ranchi,Jharkhand,East,67
+B065,Visakhapatnam Central,Visakhapatnam,Andhra Pradesh,South,124
+B066,Pune City Center,Pune,Maharashtra,West,200
+B067,Mysuru Expressway,Mysuru,Karnataka,South,201
+B068,Jamshedpur West,Jamshedpur,Jharkhand,East,161
+B069,Ranchi Expressway,Ranchi,Jharkhand,East,170
+B070,Mangaluru North,Mangaluru,Karnataka,South,147
+B071,Udaipur Tech Park,Udaipur,Rajasthan,North,111
+B072,Kochi Expressway,Kochi,Kerala,South,107
+B073,Gwalior East,Gwalior,Madhya Pradesh,Central,91
+B074,Agra South,Agra,Uttar Pradesh,North,146
+B075,Kochi Metro,Kochi,Kerala,South,40
+B076,Coimbatore Main,Coimbatore,Tamil Nadu,South,178
+B077,Visakhapatnam Bypass,Visakhapatnam,Andhra Pradesh,South,142
+B078,Gurugram Expressway,Gurugram,Haryana,North,43
+B079,Hyderabad Tech Park,Hyderabad,Telangana,South,211
+B080,Mangaluru Main,Mangaluru,Karnataka,South,149
+B081,Bhubaneswar Main,Bhubaneswar,Odisha,East,33
+B082,Kanpur City Center,Kanpur,Uttar Pradesh,North,200
+B083,Hyderabad Metro,Hyderabad,Telangana,South,187
+B084,Rajkot City Center,Rajkot,Gujarat,West,192
+B085,Nashik Main,Nashik,Maharashtra,West,207
+B086,Hyderabad Industrial Estate,Hyderabad,Telangana,South,193
+B087,Surat Bypass,Surat,Gujarat,West,52
+B088,Bhubaneswar Metro,Bhubaneswar,Odisha,East,145
+B089,Visakhapatnam Tech Park,Visakhapatnam,Andhra Pradesh,South,216
+B090,Thane North,Thane,Maharashtra,West,150
+B091,Bhopal Hub,Bhopal,Madhya Pradesh,Central,57
+B092,Madurai Main,Madurai,Tamil Nadu,South,91
+B093,Vijayawada South,Vijayawada,Andhra Pradesh,South,194
+B094,Bhilai Tech Park,Bhilai,Chhattisgarh,Central,54
+B095,Chennai Bypass,Chennai,Tamil Nadu,South,79
+B096,Patna North,Patna,Bihar,East,74
+B097,Indore Industrial Estate,Indore,Madhya Pradesh,Central,200
+B098,Gwalior South,Gwalior,Madhya Pradesh,Central,144
+B099,Vadodara Main,Vadodara,Gujarat,West,78
+B100,Jaipur Bypass,Jaipur,Rajasthan,North,204
