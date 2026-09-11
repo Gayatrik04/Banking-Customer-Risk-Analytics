@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,gender,age,marital_status,occupation,annual_income,city,state,customer_since,customer_segment,customer_tenure
+C00001,Karan,Saxena,Male,41,Single,Consultant,1200000,Thane,Maharashtra,2016-12-22,Platinum,10
+C00002,Monika,Saxena,Female,38,Single,Business,1750000,Thane,Maharashtra,2021-11-17,Platinum,5
+C00003,Sangeeta,Pillai,Female,62,Married,HR Executive,850000,Jaipur,Rajasthan,2017-04-08,Gold,9
+C00004,Kriti,Pillai,Female,55,Married,Doctor,1740000,Kolkata,West Bengal,2018-01-20,Platinum,8
+C00005,Aditya,Kumar,Male,44,Married,Civil Engineer,770000,Mysuru,Karnataka,2019-07-06,Gold,7
+C00006,Pankaj,Pandey,Male,63,Single,Business,2180000,Nagpur,Maharashtra,2016-07-24,Platinum,10
+C00007,Anil,Chawla,Male,23,Single,Chartered Accountant,1180000,Hyderabad,Telangana,2019-01-27,Gold,7
+C00008,Kriti,Kumar,Female,28,Married,Financial Analyst,1040000,Nagpur,Maharashtra,2023-01-09,Gold,3
+C00009,Tanya,Pandey,Female,36,Single,Teacher,620000,Surat,Gujarat,2018-03-07,Silver,8
+C00010,Sangeeta,Rao,Female,64,Married,Financial Analyst,1180000,Mysuru,Karnataka,2023-05-22,Gold,3
+C00011,Karan,Mishra,Male,33,Single,Sales Executive,620000,Nagpur,Maharashtra,2018-01-26,Silver,8
+C00012,Bhavna,Bhat,Female,65,Single,Software Engineer,1600000,Mysuru,Karnataka,2020-08-09,Platinum,6
+C00013,Priya,Mehta,Female,57,Married,Doctor,2120000,Bengaluru,Karnataka,2015-07-15,Platinum,11
+C00014,Vijay,Shah,Male,35,Married,Financial Analyst,1150000,Kolkata,West Bengal,2021-10-30,Gold,5
+C00015,Amit,Chawla,Male,43,Single,Architect,960000,Mumbai,Maharashtra,2019-11-28,Gold,7
+C00016,Sunil,Nair,Male,59,Single,Chartered Accountant,2090000,Pune,Maharashtra,2023-03-23,Platinum,3
+C00017,Abhishek,Gowda,Male,63,Single,Doctor,2670000,Thane,Maharashtra,2016-02-12,Platinum,10
+C00018,Anita,Reddy,Female,52,Married,HR Executive,590000,Surat,Gujarat,2016-10-30,Silver,10
+C00019,Varun,Trivedi,Male,63,Married,Business,2530000,Jaipur,Rajasthan,2023-11-09,Platinum,3
+C00020,Amit,Pillai,Male,53,Married,Sales Executive,600000,Kolkata,West Bengal,2018-12-11,Silver,8
+C00021,Jyoti,Kumar,Female,63,Married,Teacher,720000,Hyderabad,Telangana,2021-05-03,Gold,5
+C00022,Dinesh,Trivedi,Male,47,Married,Financial Analyst,1300000,Gurugram,Haryana,2015-06-13,Platinum,11
+C00023,Amit,Hegde,Male,30,Single,Consultant,1210000,Thane,Maharashtra,2015-04-01,Platinum,11
+C00024,Kunal,Bansal,Male,32,Single,Software Engineer,1080000,Mysuru,Karnataka,2019-08-10,Gold,7
+C00025,Rahul,Agarwal,Male,28,Single,Sales Executive,480000,Delhi,Delhi,2016-06-26,Silver,10
+C00026,Neha,Sharma,Female,53,Married,Data Scientist,1860000,Ahmedabad,Gujarat,2024-10-21,Platinum,2
+C00027,Vikram,Verma,Male,58,Married,Consultant,1760000,Surat,Gujarat,2020-11-18,Platinum,6
+C00028,Rohan,Patel,Male,54,Married,Operations Manager,1200000,Coimbatore,Tamil Nadu,2017-03-03,Platinum,9
+C00029,Sonal,Gowda,Female,34,Single,Doctor,1950000,Coimbatore,Tamil Nadu,2020-04-12,Platinum,6
+C00030,Dinesh,Agarwal,Male,39,Married,Data Scientist,1410000,Kolkata,West Bengal,2023-03-03,Platinum,3
+C00031,Shweta,Kapoor,Female,63,Married,Sales Executive,910000,Coimbatore,Tamil Nadu,2018-06-04,Gold,8
+C00032,Sunil,Jadhav,Male,32,Single,Sales Executive,540000,Gurugram,Haryana,2017-11-28,Silver,9
+C00033,Varun,Patel,Male,57,Married,Sales Executive,840000,Mumbai,Maharashtra,2020-05-05,Gold,6
+C00034,Poonam,Bansal,Female,61,Married,Teacher,440000,Jaipur,Rajasthan,2017-05-24,Silver,9
+C00035,Tanya,Jadhav,Female,38,Married,Consultant,1230000,Noida,Uttar Pradesh,2019-07-14,Platinum,7
+C00036,Rashmi,Reddy,Female,26,Married,Teacher,470000,Chennai,Tamil Nadu,2018-01-26,Silver,8
+C00037,Pankaj,Bhat,Male,25,Married,Consultant,1320000,Coimbatore,Tamil Nadu,2019-10-09,Platinum,7
+C00038,Rahul,Deshmukh,Male,64,Married,Financial Analyst,1660000,Pune,Maharashtra,2018-08-31,Platinum,8
+C00039,Sonal,Gowda,Female,55,Married,Consultant,1420000,Surat,Gujarat,2016-09-02,Platinum,10
+C00040,Deepak,Rao,Male,49,Married,Civil Engineer,920000,Hyderabad,Telangana,2020-12-20,Gold,6
+C00041,Vijay,Trivedi,Male,56,Married,Chartered Accountant,1890000,Chennai,Tamil Nadu,2023-12-25,Platinum,3
+C00042,Amit,Singh,Male,36,Single,Operations Manager,1000000,Noida,Uttar Pradesh,2024-12-16,Gold,2
+C00043,Manoj,Gupta,Male,58,Single,Business,1910000,Noida,Uttar Pradesh,2019-07-26,Platinum,7
+C00044,Richa,Agarwal,Female,47,Married,Graphic Designer,630000,Thane,Maharashtra,2017-01-31,Silver,9
+C00045,Deepak,Verma,Male,40,Married,Marketing Manager,1160000,Chennai,Tamil Nadu,2017-04-06,Gold,9
+C00046,Sunita,Patel,Female,44,Single,Operations Manager,1090000,Mumbai,Maharashtra,2016-06-06,Gold,10
+C00047,Alok,Joshi,Male,27,Married,Marketing Manager,1210000,Mysuru,Karnataka,2024-08-31,Platinum,2
+C00048,Isha,Pandey,Female,34,Married,Architect,1220000,Chennai,Tamil Nadu,2023-11-24,Platinum,3
+C00049,Divya,Shah,Female,24,Single,Doctor,1540000,Gurugram,Haryana,2018-05-02,Platinum,8
+C00050,Abhishek,Mishra,Male,37,Married,Business,2000000,Nagpur,Maharashtra,2022-11-05,Platinum,4
+C00051,Sneha,Reddy,Female,63,Married,Graphic Designer,800000,Mysuru,Karnataka,2024-12-20,Gold,2
+C00052,Rashmi,Sharma,Female,53,Married,Software Engineer,1240000,Bengaluru,Karnataka,2019-09-17,Platinum,7
+C00053,Anita,Hegde,Female,44,Married,Data Scientist,1500000,Bengaluru,Karnataka,2022-03-23,Platinum,4
+C00054,Tanya,Deshmukh,Female,33,Married,Operations Manager,1120000,Gurugram,Haryana,2019-05-20,Gold,7
+C00055,Preeti,Kapoor,Female,44,Married,Data Scientist,1590000,Ahmedabad,Gujarat,2019-11-13,Platinum,7
+C00056,Simran,Pawar,Female,62,Single,HR Executive,890000,Kolkata,West Bengal,2017-06-21,Gold,9
+C00057,Kunal,Trivedi,Male,33,Single,Data Scientist,1050000,Bengaluru,Karnataka,2024-03-05,Gold,2
+C00058,Anil,Malhotra,Male,46,Married,Chartered Accountant,1510000,Ahmedabad,Gujarat,2019-02-28,Platinum,7
+C00059,Vikram,Chawla,Male,30,Single,Sales Executive,580000,Ahmedabad,Gujarat,2023-07-25,Silver,3
+C00060,Anil,Hegde,Male,61,Married,Graphic Designer,710000,Bengaluru,Karnataka,2021-03-24,Gold,5
+C00061,Dinesh,Mehta,Male,40,Single,Doctor,1830000,Mysuru,Karnataka,2024-07-31,Platinum,2
+C00062,Pankaj,Verma,Male,45,Single,Data Scientist,1710000,Thane,Maharashtra,2017-08-21,Platinum,9
+C00063,Isha,Gowda,Female,55,Married,Sales Executive,500000,Mumbai,Maharashtra,2021-05-14,Silver,5
+C00064,Aditya,Bansal,Male,34,Married,Doctor,1540000,Delhi,Delhi,2019-05-26,Platinum,7
+C00065,Aditya,Verma,Male,62,Married,Data Scientist,1680000,Thane,Maharashtra,2020-03-17,Platinum,6
+C00066,Pooja,Saxena,Female,36,Married,Consultant,1330000,Pune,Maharashtra,2021-10-31,Platinum,5
+C00067,Rajesh,Pillai,Male,60,Single,Civil Engineer,1130000,Thane,Maharashtra,2018-07-26,Gold,8
+C00068,Nisha,Saxena,Female,36,Married,Graphic Designer,540000,Delhi,Delhi,2017-08-15,Silver,9
+C00069,Vikram,Nair,Male,29,Single,Business,1340000,Bengaluru,Karnataka,2024-10-28,Platinum,2
+C00070,Riya,Pandey,Female,44,Married,Civil Engineer,970000,Hyderabad,Telangana,2020-09-12,Gold,6
+C00071,Ritu,Kulkarni,Female,62,Married,Sales Executive,800000,Mysuru,Karnataka,2015-09-17,Gold,11
+C00072,Amit,Gupta,Male,40,Married,Architect,1050000,Surat,Gujarat,2024-01-13,Gold,2
+C00073,Pankaj,Mishra,Male,49,Married,Sales Executive,620000,Bengaluru,Karnataka,2024-05-08,Silver,2
+C00074,Sunita,Joshi,Female,59,Married,Data Scientist,1830000,Coimbatore,Tamil Nadu,2017-12-01,Platinum,9
+C00075,Meena,Deshmukh,Female,56,Married,Operations Manager,1510000,Bengaluru,Karnataka,2018-10-23,Platinum,8
+C00076,Richa,Pillai,Female,53,Single,Architect,1410000,Noida,Uttar Pradesh,2020-07-17,Platinum,6
+C00077,Aarti,Bansal,Female,36,Single,Architect,900000,Gurugram,Haryana,2023-09-21,Gold,3
+C00078,Amit,Gupta,Male,57,Married,Operations Manager,1320000,Chennai,Tamil Nadu,2017-11-12,Platinum,9
+C00079,Sunil,Hegde,Male,31,Married,Marketing Manager,1240000,Mysuru,Karnataka,2016-06-16,Platinum,10
+C00080,Vikram,Reddy,Male,60,Married,Chartered Accountant,1500000,Jaipur,Rajasthan,2021-08-01,Platinum,5
+C00081,Anita,Rao,Female,62,Single,HR Executive,880000,Mumbai,Maharashtra,2022-10-29,Gold,4
+C00082,Anita,Gowda,Female,35,Single,Operations Manager,860000,Gurugram,Haryana,2019-11-30,Gold,7
+C00083,Amit,Nair,Male,24,Single,Software Engineer,860000,Mysuru,Karnataka,2019-02-06,Gold,7
+C00084,Nitin,Shah,Male,46,Married,Chartered Accountant,1300000,Noida,Uttar Pradesh,2017-06-09,Platinum,9
+C00085,Rohan,Reddy,Male,61,Married,HR Executive,1000000,Thane,Maharashtra,2020-05-27,Gold,6
+C00086,Varun,Deshmukh,Male,45,Married,Civil Engineer,660000,Hyderabad,Telangana,2024-04-12,Silver,2
+C00087,Isha,Bansal,Female,42,Married,Financial Analyst,1310000,Gurugram,Haryana,2018-02-08,Platinum,8
+C00088,Deepika,Pandey,Female,22,Single,Chartered Accountant,920000,Jaipur,Rajasthan,2021-04-24,Gold,5
+C00089,Kriti,Pandey,Female,36,Single,HR Executive,680000,Hyderabad,Telangana,2015-10-01,Silver,11
+C00090,Amit,Shah,Male,54,Married,Operations Manager,1210000,Surat,Gujarat,2017-08-06,Platinum,9
+C00091,Suresh,Joshi,Male,34,Married,Graphic Designer,620000,Delhi,Delhi,2024-02-18,Silver,2
+C00092,Aarti,Shetty,Female,47,Married,Operations Manager,1610000,Chennai,Tamil Nadu,2024-05-12,Platinum,2
+C00093,Kriti,Joshi,Female,29,Married,HR Executive,690000,Mysuru,Karnataka,2017-09-06,Silver,9
+C00094,Riya,Trivedi,Female,61,Married,Data Scientist,2530000,Delhi,Delhi,2016-12-09,Platinum,10
+C00095,Jyoti,Jadhav,Female,46,Married,Consultant,1220000,Nagpur,Maharashtra,2022-05-19,Platinum,4
+C00096,Sunil,Trivedi,Male,33,Married,Software Engineer,1050000,Hyderabad,Telangana,2022-05-28,Gold,4
+C00097,Neha,Patel,Female,42,Married,Architect,950000,Gurugram,Haryana,2024-06-03,Gold,2
+C00098,Vikas,Kulkarni,Male,41,Married,Consultant,1220000,Kolkata,West Bengal,2021-07-12,Platinum,5
+C00099,Manish,Hegde,Male,21,Single,Financial Analyst,960000,Delhi,Delhi,2015-12-07,Gold,11
+C00100,Varun,Sharma,Male,55,Married,Financial Analyst,1210000,Surat,Gujarat,2021-10-22,Platinum,5
+C00101,Prashant,Nair,Male,28,Married,HR Executive,810000,Chennai,Tamil Nadu,2020-04-15,Gold,6
+C00102,Riya,Kulkarni,Female,56,Single,Chartered Accountant,1720000,Pune,Maharashtra,2024-06-03,Platinum,2
+C00103,Aditya,Kapoor,Male,58,Married,Architect,1210000,Nagpur,Maharashtra,2017-09-22,Platinum,9
+C00104,Kunal,Jadhav,Male,31,Single,Doctor,1820000,Thane,Maharashtra,2015-07-25,Platinum,11
+C00105,Richa,Singh,Female,23,Single,Marketing Manager,720000,Thane,Maharashtra,2016-04-27,Gold,10
+C00106,Amit,Kumar,Male,47,Single,Data Scientist,1480000,Surat,Gujarat,2019-12-07,Platinum,7
+C00107,Manoj,Bansal,Male,41,Married,Sales Executive,560000,Delhi,Delhi,2017-05-13,Silver,9
+C00108,Kavita,Kulkarni,Female,49,Married,Graphic Designer,640000,Nagpur,Maharashtra,2021-06-11,Silver,5
+C00109,Amit,Verma,Male,55,Single,Sales Executive,520000,Vadodara,Gujarat,2017-10-20,Silver,9
+C00110,Arjun,Patel,Male,39,Single,Business,2090000,Delhi,Delhi,2017-01-06,Platinum,9
+C00111,Manoj,Sharma,Male,64,Single,Software Engineer,1570000,Nagpur,Maharashtra,2022-02-23,Platinum,4
+C00112,Vikram,Pandey,Male,31,Married,Software Engineer,1170000,Hyderabad,Telangana,2024-11-09,Gold,2
+C00113,Isha,Gupta,Female,43,Married,Teacher,600000,Jaipur,Rajasthan,2015-05-16,Silver,11
+C00114,Bhavna,Nair,Female,60,Single,Software Engineer,1670000,Ahmedabad,Gujarat,2022-11-23,Platinum,4
+C00115,Pooja,Gowda,Female,44,Married,Chartered Accountant,1470000,Gurugram,Haryana,2019-12-05,Platinum,7
+C00116,Divya,Gupta,Female,42,Married,Operations Manager,1220000,Gurugram,Haryana,2022-10-18,Platinum,4
+C00117,Simran,Singh,Female,44,Married,Sales Executive,680000,Delhi,Delhi,2021-07-23,Silver,5
+C00118,Karan,Shetty,Male,26,Single,Financial Analyst,1060000,Mumbai,Maharashtra,2021-05-05,Gold,5
+C00119,Preeti,Sharma,Female,58,Single,Doctor,2430000,Mysuru,Karnataka,2016-01-07,Platinum,10
+C00120,Rashmi,Nair,Female,63,Single,Civil Engineer,1140000,Nagpur,Maharashtra,2023-01-29,Gold,3
+C00121,Deepika,Trivedi,Female,26,Married,Architect,890000,Ahmedabad,Gujarat,2016-09-11,Gold,10
+C00122,Monika,Patel,Female,61,Single,Teacher,650000,Hyderabad,Telangana,2019-06-20,Silver,7
+C00123,Amit,Pillai,Male,35,Married,Chartered Accountant,1320000,Kolkata,West Bengal,2020-02-16,Platinum,6
+C00124,Kunal,Kapoor,Male,24,Married,Software Engineer,870000,Hyderabad,Telangana,2021-09-27,Gold,5
+C00125,Sachin,Hegde,Male,33,Single,Software Engineer,910000,Bengaluru,Karnataka,2020-12-10,Gold,6
+C00126,Vikas,Rao,Male,28,Married,Data Scientist,1770000,Mysuru,Karnataka,2020-06-16,Platinum,6
+C00127,Deepika,Chawla,Female,36,Single,Civil Engineer,900000,Pune,Maharashtra,2023-08-27,Gold,3
+C00128,Swati,Chawla,Female,51,Married,HR Executive,930000,Vadodara,Gujarat,2016-09-07,Gold,10
+C00129,Manoj,Reddy,Male,46,Married,Software Engineer,1260000,Bengaluru,Karnataka,2023-06-27,Platinum,3
+C00130,Pankaj,Malhotra,Male,53,Married,Sales Executive,630000,Mysuru,Karnataka,2024-07-16,Silver,2
+C00131,Deepak,Trivedi,Male,58,Married,Data Scientist,1770000,Coimbatore,Tamil Nadu,2020-01-31,Platinum,6
+C00132,Gaurav,Trivedi,Male,56,Married,Graphic Designer,580000,Gurugram,Haryana,2021-04-03,Silver,5
+C00133,Vikas,Bansal,Male,31,Single,Doctor,1620000,Hyderabad,Telangana,2015-10-21,Platinum,11
+C00134,Ashish,Bansal,Male,63,Married,Software Engineer,1750000,Pune,Maharashtra,2016-06-13,Platinum,10
+C00135,Nisha,Gowda,Female,45,Married,Teacher,540000,Ahmedabad,Gujarat,2017-12-28,Silver,9
+C00136,Prashant,Pandey,Male,40,Married,Data Scientist,1380000,Nagpur,Maharashtra,2022-12-10,Platinum,4
+C00137,Abhishek,Kulkarni,Male,49,Married,Business,2150000,Pune,Maharashtra,2021-12-01,Platinum,5
+C00138,Kavita,Sharma,Female,36,Married,Architect,940000,Delhi,Delhi,2016-03-19,Gold,10
+C00139,Rajesh,Rao,Male,28,Single,Sales Executive,650000,Mysuru,Karnataka,2018-01-19,Silver,8
+C00140,Sangeeta,Mishra,Female,31,Married,Consultant,1370000,Coimbatore,Tamil Nadu,2023-11-27,Platinum,3
+C00141,Simran,Saxena,Female,26,Married,Marketing Manager,820000,Coimbatore,Tamil Nadu,2016-07-21,Gold,10
+C00142,Prashant,Nair,Male,60,Single,Doctor,1920000,Ahmedabad,Gujarat,2023-08-12,Platinum,3
+C00143,Abhishek,Shah,Male,52,Married,Graphic Designer,650000,Coimbatore,Tamil Nadu,2023-12-30,Silver,3
+C00144,Varun,Sharma,Male,27,Single,Teacher,440000,Noida,Uttar Pradesh,2021-01-02,Silver,5
+C00145,Anil,Chawla,Male,56,Single,Operations Manager,1440000,Chennai,Tamil Nadu,2023-12-15,Platinum,3
+C00146,Nitin,Pawar,Male,43,Married,Operations Manager,1280000,Jaipur,Rajasthan,2022-08-22,Platinum,4
+C00147,Aarti,Kumar,Female,47,Married,Operations Manager,1260000,Delhi,Delhi,2017-12-14,Platinum,9
+C00148,Suresh,Chawla,Male,46,Married,Teacher,480000,Hyderabad,Telangana,2023-05-28,Silver,3
+C00149,Amit,Bansal,Male,36,Single,Sales Executive,700000,Gurugram,Haryana,2021-09-10,Gold,5
+C00150,Amit,Bansal,Male,28,Single,HR Executive,740000,Bengaluru,Karnataka,2019-10-07,Gold,7
+C00151,Anita,Chawla,Female,49,Single,Data Scientist,1730000,Pune,Maharashtra,2024-05-14,Platinum,2
+C00152,Abhishek,Saxena,Male,63,Married,Civil Engineer,970000,Surat,Gujarat,2023-12-11,Gold,3
+C00153,Sunil,Reddy,Male,59,Single,Financial Analyst,1520000,Mysuru,Karnataka,2019-12-03,Platinum,7
+C00154,Suresh,Reddy,Male,44,Married,Consultant,1280000,Mysuru,Karnataka,2015-10-01,Platinum,11
+C00155,Monika,Bhat,Female,40,Married,Consultant,1540000,Mumbai,Maharashtra,2018-08-07,Platinum,8
+C00156,Ajay,Kumar,Male,47,Married,Operations Manager,1390000,Gurugram,Haryana,2022-03-09,Platinum,4
+C00157,Sangeeta,Pawar,Female,41,Married,Doctor,1970000,Mysuru,Karnataka,2019-05-01,Platinum,7
+C00158,Nisha,Singh,Female,27,Married,Sales Executive,520000,Noida,Uttar Pradesh,2023-10-29,Silver,3
+C00159,Deepak,Gupta,Male,41,Married,Architect,1230000,Surat,Gujarat,2024-09-16,Platinum,2
+C00160,Deepika,Kulkarni,Female,23,Single,Teacher,540000,Ahmedabad,Gujarat,2021-03-20,Silver,5
+C00161,Dinesh,Gupta,Male,63,Married,Operations Manager,1170000,Nagpur,Maharashtra,2020-07-27,Gold,6
+C00162,Tanya,Bansal,Female,64,Married,Doctor,2560000,Delhi,Delhi,2023-10-21,Platinum,3
+C00163,Riya,Saxena,Female,40,Married,Business,2190000,Bengaluru,Karnataka,2019-08-26,Platinum,7
+C00164,Riya,Chawla,Female,34,Single,Graphic Designer,730000,Vadodara,Gujarat,2015-02-27,Gold,11
+C00165,Sunil,Agarwal,Male,62,Married,Consultant,1460000,Kolkata,West Bengal,2021-06-02,Platinum,5
+C00166,Riya,Kapoor,Female,58,Single,Operations Manager,1480000,Mumbai,Maharashtra,2015-07-10,Platinum,11
+C00167,Varun,Bhat,Male,41,Single,Teacher,450000,Ahmedabad,Gujarat,2019-10-23,Silver,7
+C00168,Ajay,Bansal,Male,31,Married,Teacher,560000,Gurugram,Haryana,2021-04-16,Silver,5
+C00169,Prashant,Pawar,Male,21,Married,Marketing Manager,770000,Delhi,Delhi,2016-10-16,Gold,10
+C00170,Ritu,Gupta,Female,36,Married,Sales Executive,580000,Delhi,Delhi,2017-12-13,Silver,9
+C00171,Jyoti,Deshmukh,Female,32,Single,HR Executive,550000,Chennai,Tamil Nadu,2024-08-17,Silver,2
+C00172,Manish,Jadhav,Male,63,Married,Marketing Manager,1590000,Thane,Maharashtra,2018-01-02,Platinum,8
+C00173,Deepak,Reddy,Male,32,Single,Business,1290000,Nagpur,Maharashtra,2022-08-12,Platinum,4
+C00174,Sandeep,Joshi,Male,30,Married,Civil Engineer,730000,Bengaluru,Karnataka,2022-05-29,Gold,4
+C00175,Sonal,Rao,Female,31,Married,HR Executive,700000,Hyderabad,Telangana,2023-01-08,Gold,3
+C00176,Karan,Singh,Male,56,Married,Software Engineer,1650000,Nagpur,Maharashtra,2023-05-07,Platinum,3
+C00177,Sangeeta,Rao,Female,58,Married,Data Scientist,2060000,Bengaluru,Karnataka,2018-06-05,Platinum,8
+C00178,Aditya,Rao,Male,52,Married,Civil Engineer,1230000,Vadodara,Gujarat,2024-02-12,Platinum,2
+C00179,Preeti,Gupta,Female,62,Married,HR Executive,870000,Vadodara,Gujarat,2022-08-07,Gold,4
+C00180,Anil,Deshmukh,Male,49,Single,Financial Analyst,1050000,Gurugram,Haryana,2016-06-28,Gold,10
+C00181,Sunil,Agarwal,Male,45,Married,Teacher,640000,Vadodara,Gujarat,2024-06-27,Silver,2
+C00182,Nitin,Kumar,Male,42,Married,Doctor,1900000,Thane,Maharashtra,2021-12-15,Platinum,5
+C00183,Nisha,Malhotra,Female,65,Single,Teacher,840000,Mumbai,Maharashtra,2022-09-02,Gold,4
+C00184,Poonam,Trivedi,Female,36,Single,Data Scientist,1610000,Mysuru,Karnataka,2017-01-11,Platinum,9
+C00185,Karan,Rao,Male,24,Married,Civil Engineer,430000,Chennai,Tamil Nadu,2017-08-24,Silver,9
+C00186,Swati,Bhat,Female,37,Married,Data Scientist,1310000,Vadodara,Gujarat,2024-07-13,Platinum,2
+C00187,Sunita,Agarwal,Female,61,Married,Business,2890000,Noida,Uttar Pradesh,2022-07-09,Platinum,4
+C00188,Preeti,Joshi,Female,37,Married,Financial Analyst,1040000,Noida,Uttar Pradesh,2023-09-24,Gold,3
+C00189,Bhavna,Sharma,Female,51,Married,Business,1900000,Jaipur,Rajasthan,2017-07-23,Platinum,9
+C00190,Varun,Pawar,Male,28,Single,Data Scientist,980000,Nagpur,Maharashtra,2017-03-03,Gold,9
+C00191,Alok,Agarwal,Male,62,Single,Teacher,610000,Gurugram,Haryana,2018-03-07,Silver,8
+C00192,Anita,Shetty,Female,33,Single,Data Scientist,1870000,Hyderabad,Telangana,2019-09-06,Platinum,7
+C00193,Sangeeta,Sharma,Female,47,Single,Graphic Designer,700000,Coimbatore,Tamil Nadu,2018-03-30,Gold,8
+C00194,Jyoti,Rao,Female,60,Single,Civil Engineer,1020000,Coimbatore,Tamil Nadu,2022-08-10,Gold,4
+C00195,Abhishek,Malhotra,Male,60,Married,Data Scientist,2210000,Ahmedabad,Gujarat,2022-05-17,Platinum,4
+C00196,Sunil,Rao,Male,44,Married,Financial Analyst,910000,Chennai,Tamil Nadu,2017-01-28,Gold,9
+C00197,Meena,Reddy,Female,52,Married,Marketing Manager,1180000,Vadodara,Gujarat,2018-01-07,Gold,8
+C00198,Ritu,Reddy,Female,37,Married,Marketing Manager,890000,Kolkata,West Bengal,2016-07-17,Gold,10
+C00199,Preeti,Hegde,Female,49,Married,Sales Executive,710000,Vadodara,Gujarat,2015-04-05,Gold,11
+C00200,Sangeeta,Jadhav,Female,34,Married,Software Engineer,1470000,Mysuru,Karnataka,2024-09-27,Platinum,2
+C00201,Sonal,Saxena,Female,50,Single,Marketing Manager,1450000,Kolkata,West Bengal,2020-10-16,Platinum,6
+C00202,Prashant,Shah,Male,57,Married,Architect,1350000,Surat,Gujarat,2022-07-25,Platinum,4
+C00203,Sanjay,Patel,Male,57,Married,Civil Engineer,890000,Bengaluru,Karnataka,2024-06-24,Gold,2
+C00204,Priya,Sharma,Female,62,Married,Operations Manager,1390000,Thane,Maharashtra,2016-03-04,Platinum,10
+C00205,Monika,Trivedi,Female,46,Married,Civil Engineer,680000,Bengaluru,Karnataka,2023-09-30,Silver,3
+C00206,Vikram,Jadhav,Male,28,Married,Civil Engineer,890000,Nagpur,Maharashtra,2015-04-14,Gold,11
+C00207,Ashish,Saxena,Male,36,Married,Operations Manager,1060000,Bengaluru,Karnataka,2023-07-30,Gold,3
+C00208,Sneha,Shetty,Female,22,Married,Doctor,1500000,Kolkata,West Bengal,2015-09-02,Platinum,11
+C00209,Ashish,Hegde,Male,62,Married,Civil Engineer,990000,Mysuru,Karnataka,2018-07-30,Gold,8
+C00210,Rohan,Mehta,Male,45,Single,Teacher,470000,Mysuru,Karnataka,2019-03-13,Silver,7
+C00211,Aarti,Singh,Female,31,Single,Operations Manager,1020000,Coimbatore,Tamil Nadu,2021-07-28,Gold,5
+C00212,Anita,Singh,Female,64,Married,Graphic Designer,870000,Kolkata,West Bengal,2020-07-07,Gold,6
+C00213,Nisha,Shah,Female,32,Single,Financial Analyst,1210000,Jaipur,Rajasthan,2016-11-03,Platinum,10
+C00214,Prashant,Pillai,Male,44,Married,Architect,1330000,Mumbai,Maharashtra,2021-12-11,Platinum,5
+C00215,Richa,Shah,Female,41,Married,Software Engineer,1380000,Kolkata,West Bengal,2022-05-31,Platinum,4
+C00216,Sanjay,Agarwal,Male,38,Single,Financial Analyst,960000,Coimbatore,Tamil Nadu,2019-08-01,Gold,7
+C00217,Karan,Gupta,Male,33,Married,Chartered Accountant,1450000,Nagpur,Maharashtra,2016-03-23,Platinum,10
+C00218,Deepika,Gupta,Female,64,Married,Software Engineer,1130000,Vadodara,Gujarat,2020-12-25,Gold,6
+C00219,Sonal,Pillai,Female,52,Married,Sales Executive,690000,Mumbai,Maharashtra,2018-11-06,Silver,8
+C00220,Sneha,Verma,Female,37,Married,Financial Analyst,1220000,Pune,Maharashtra,2021-06-18,Platinum,5
+C00221,Kavita,Jadhav,Female,65,Married,Consultant,2130000,Surat,Gujarat,2023-06-18,Platinum,3
+C00222,Anita,Trivedi,Female,23,Married,Software Engineer,930000,Coimbatore,Tamil Nadu,2015-06-03,Gold,11
+C00223,Sandeep,Rao,Male,47,Married,Data Scientist,1790000,Thane,Maharashtra,2022-07-02,Platinum,4
+C00224,Deepak,Agarwal,Male,52,Married,Civil Engineer,1260000,Kolkata,West Bengal,2015-11-04,Platinum,11
+C00225,Sunil,Jadhav,Male,44,Married,Data Scientist,1500000,Vadodara,Gujarat,2015-10-02,Platinum,11
+C00226,Kunal,Pawar,Male,40,Single,Teacher,530000,Pune,Maharashtra,2019-10-03,Silver,7
+C00227,Meena,Bansal,Female,52,Married,Civil Engineer,990000,Surat,Gujarat,2022-04-07,Gold,4
+C00228,Rahul,Mehta,Male,40,Married,Teacher,660000,Ahmedabad,Gujarat,2016-10-30,Silver,10
+C00229,Rashmi,Jadhav,Female,51,Married,Sales Executive,570000,Kolkata,West Bengal,2018-07-13,Silver,8
+C00230,Nisha,Rao,Female,33,Married,Civil Engineer,970000,Hyderabad,Telangana,2018-08-12,Gold,8
+C00231,Kriti,Pawar,Female,33,Married,Business,1480000,Ahmedabad,Gujarat,2023-10-16,Platinum,3
+C00232,Vijay,Gupta,Male,27,Married,Chartered Accountant,1510000,Jaipur,Rajasthan,2024-12-30,Platinum,2
+C00233,Anita,Gowda,Female,25,Single,Architect,640000,Nagpur,Maharashtra,2022-01-23,Silver,4
+C00234,Ajay,Chawla,Male,60,Married,Software Engineer,1580000,Thane,Maharashtra,2023-12-08,Platinum,3
+C00235,Rahul,Deshmukh,Male,27,Single,Doctor,1560000,Pune,Maharashtra,2019-04-14,Platinum,7
+C00236,Anita,Deshmukh,Female,42,Married,Software Engineer,1150000,Coimbatore,Tamil Nadu,2018-09-17,Gold,8
+C00237,Suresh,Pawar,Male,38,Married,Business,1510000,Bengaluru,Karnataka,2019-11-30,Platinum,7
+C00238,Aditya,Patel,Male,40,Married,Financial Analyst,1160000,Jaipur,Rajasthan,2017-10-12,Gold,9
+C00239,Sunita,Saxena,Female,63,Married,Software Engineer,1170000,Mysuru,Karnataka,2018-05-18,Gold,8
+C00240,Aditya,Mishra,Male,33,Married,HR Executive,700000,Noida,Uttar Pradesh,2021-12-05,Gold,5
+C00241,Nisha,Nair,Female,59,Married,Software Engineer,1520000,Coimbatore,Tamil Nadu,2015-11-22,Platinum,11
+C00242,Shweta,Patel,Female,43,Single,Teacher,430000,Delhi,Delhi,2024-06-05,Silver,2
+C00243,Anjali,Pandey,Female,28,Married,Graphic Designer,540000,Jaipur,Rajasthan,2022-02-23,Silver,4
+C00244,Pankaj,Trivedi,Male,48,Married,Data Scientist,1660000,Surat,Gujarat,2018-09-04,Platinum,8
+C00245,Deepak,Trivedi,Male,30,Married,Software Engineer,930000,Noida,Uttar Pradesh,2019-11-28,Gold,7
+C00246,Nisha,Bhat,Female,63,Single,Civil Engineer,1120000,Ahmedabad,Gujarat,2020-07-24,Gold,6
+C00247,Manoj,Trivedi,Male,52,Married,Architect,1210000,Thane,Maharashtra,2021-02-23,Platinum,5
+C00248,Deepika,Sharma,Female,40,Single,Software Engineer,1440000,Bengaluru,Karnataka,2016-04-03,Platinum,10
+C00249,Nisha,Deshmukh,Female,37,Single,Doctor,2490000,Ahmedabad,Gujarat,2022-06-02,Platinum,4
+C00250,Poonam,Malhotra,Female,41,Single,Software Engineer,1190000,Ahmedabad,Gujarat,2023-09-06,Gold,3
+C00251,Arjun,Kulkarni,Male,43,Married,HR Executive,840000,Gurugram,Haryana,2023-02-08,Gold,3
+C00252,Manish,Rao,Male,42,Married,Consultant,1460000,Kolkata,West Bengal,2022-12-11,Platinum,4
+C00253,Sangeeta,Rao,Female,62,Single,Civil Engineer,1080000,Noida,Uttar Pradesh,2017-11-30,Gold,9
+C00254,Sunil,Patel,Male,54,Married,Doctor,2260000,Vadodara,Gujarat,2023-03-24,Platinum,3
+C00255,Ashish,Mishra,Male,61,Single,Financial Analyst,1240000,Bengaluru,Karnataka,2015-05-18,Platinum,11
+C00256,Richa,Saxena,Female,53,Married,Operations Manager,1510000,Mumbai,Maharashtra,2020-01-31,Platinum,6
+C00257,Pooja,Pillai,Female,65,Single,Chartered Accountant,1660000,Coimbatore,Tamil Nadu,2016-07-20,Platinum,10
+C00258,Sunita,Gupta,Female,33,Married,Doctor,1970000,Delhi,Delhi,2016-07-11,Platinum,10
+C00259,Poonam,Reddy,Female,56,Married,Operations Manager,1320000,Nagpur,Maharashtra,2017-07-01,Platinum,9
+C00260,Dinesh,Deshmukh,Male,50,Married,Architect,1150000,Vadodara,Gujarat,2019-01-05,Gold,7
+C00261,Jyoti,Kumar,Female,41,Married,Graphic Designer,690000,Nagpur,Maharashtra,2017-08-16,Silver,9
+C00262,Ritu,Pawar,Female,24,Married,Chartered Accountant,1250000,Hyderabad,Telangana,2020-06-26,Platinum,6
+C00263,Deepak,Reddy,Male,41,Single,Business,1780000,Gurugram,Haryana,2015-10-02,Platinum,11
+C00264,Varun,Gupta,Male,30,Married,Data Scientist,1920000,Mysuru,Karnataka,2017-11-19,Platinum,9
+C00265,Priya,Gupta,Female,50,Married,Data Scientist,1730000,Hyderabad,Telangana,2022-07-05,Platinum,4
+C00266,Swati,Trivedi,Female,56,Married,Financial Analyst,1060000,Mysuru,Karnataka,2023-12-03,Gold,3
+C00267,Sneha,Mishra,Female,26,Married,Civil Engineer,720000,Gurugram,Haryana,2017-08-07,Gold,9
+C00268,Kriti,Joshi,Female,41,Married,Data Scientist,1750000,Nagpur,Maharashtra,2015-04-05,Platinum,11
+C00269,Pankaj,Patel,Male,56,Married,Business,2060000,Pune,Maharashtra,2015-01-13,Platinum,11
+C00270,Alok,Hegde,Male,59,Married,Operations Manager,1660000,Mysuru,Karnataka,2019-08-17,Platinum,7
+C00271,Swati,Reddy,Female,48,Married,Teacher,570000,Kolkata,West Bengal,2020-02-19,Silver,6
+C00272,Sneha,Mishra,Female,24,Married,Consultant,1060000,Bengaluru,Karnataka,2019-11-24,Gold,7
+C00273,Kavita,Pandey,Female,40,Single,Marketing Manager,1280000,Nagpur,Maharashtra,2022-07-28,Platinum,4
+C00274,Pooja,Hegde,Female,34,Married,Chartered Accountant,1780000,Pune,Maharashtra,2020-02-16,Platinum,6
+C00275,Dinesh,Agarwal,Male,51,Married,Doctor,2630000,Coimbatore,Tamil Nadu,2024-05-19,Platinum,2
+C00276,Amit,Hegde,Male,41,Single,Business,1990000,Vadodara,Gujarat,2020-03-28,Platinum,6
+C00277,Simran,Deshmukh,Female,28,Married,Operations Manager,1000000,Noida,Uttar Pradesh,2019-07-29,Gold,7
+C00278,Kavita,Saxena,Female,59,Married,Consultant,1910000,Mysuru,Karnataka,2020-01-26,Platinum,6
+C00279,Ritu,Saxena,Female,31,Married,HR Executive,590000,Chennai,Tamil Nadu,2021-05-10,Silver,5
+C00280,Kavita,Shah,Female,50,Married,HR Executive,640000,Thane,Maharashtra,2015-08-18,Silver,11
+C00281,Simran,Verma,Female,47,Single,Data Scientist,1720000,Mysuru,Karnataka,2017-11-14,Platinum,9
+C00282,Amit,Verma,Male,59,Single,Teacher,700000,Noida,Uttar Pradesh,2018-05-13,Gold,8
+C00283,Gaurav,Bansal,Male,42,Married,Operations Manager,1410000,Ahmedabad,Gujarat,2020-02-27,Platinum,6
+C00284,Ashish,Singh,Male,64,Married,Chartered Accountant,1430000,Mumbai,Maharashtra,2016-11-15,Platinum,10
+C00285,Tanya,Rao,Female,32,Married,Software Engineer,770000,Thane,Maharashtra,2015-09-24,Gold,11
+C00286,Manish,Deshmukh,Male,56,Married,Operations Manager,1080000,Pune,Maharashtra,2018-07-08,Gold,8
+C00287,Rahul,Kapoor,Male,54,Married,Consultant,1280000,Bengaluru,Karnataka,2015-06-12,Platinum,11
+C00288,Priya,Bansal,Female,35,Married,Teacher,470000,Gurugram,Haryana,2024-01-20,Silver,2
+C00289,Rajesh,Bansal,Male,28,Single,Architect,850000,Pune,Maharashtra,2023-12-26,Gold,3
+C00290,Rashmi,Kumar,Female,27,Married,Marketing Manager,980000,Jaipur,Rajasthan,2018-08-08,Gold,8
+C00291,Amit,Pillai,Male,27,Married,Teacher,500000,Nagpur,Maharashtra,2016-03-02,Silver,10
+C00292,Gaurav,Kulkarni,Male,34,Married,Sales Executive,720000,Nagpur,Maharashtra,2024-05-22,Gold,2
+C00293,Nisha,Bhat,Female,49,Single,Graphic Designer,600000,Gurugram,Haryana,2023-09-02,Silver,3
+C00294,Anil,Bhat,Male,35,Married,Marketing Manager,1060000,Bengaluru,Karnataka,2022-04-24,Gold,4
+C00295,Vikas,Sharma,Male,40,Married,Architect,880000,Nagpur,Maharashtra,2024-01-07,Gold,2
+C00296,Meena,Jadhav,Female,31,Single,Consultant,1150000,Noida,Uttar Pradesh,2019-03-24,Gold,7
+C00297,Poonam,Agarwal,Female,32,Single,Chartered Accountant,1230000,Mumbai,Maharashtra,2016-07-18,Platinum,10
+C00298,Vikas,Bansal,Male,42,Single,Business,1970000,Bengaluru,Karnataka,2023-10-30,Platinum,3
+C00299,Sneha,Joshi,Female,57,Married,Architect,1310000,Mumbai,Maharashtra,2018-01-15,Platinum,8
+C00300,Alok,Reddy,Male,44,Single,Software Engineer,1210000,Chennai,Tamil Nadu,2022-05-31,Platinum,4
+C00301,Ajay,Joshi,Male,25,Single,Chartered Accountant,910000,Delhi,Delhi,2022-04-24,Gold,4
+C00302,Aarti,Bansal,Female,47,Single,HR Executive,630000,Ahmedabad,Gujarat,2018-07-13,Silver,8
+C00303,Swati,Kumar,Female,50,Single,Teacher,790000,Noida,Uttar Pradesh,2024-08-22,Gold,2
+C00304,Shweta,Gowda,Female,32,Single,Chartered Accountant,1620000,Chennai,Tamil Nadu,2015-01-13,Platinum,11
+C00305,Deepika,Gowda,Female,23,Married,HR Executive,610000,Surat,Gujarat,2018-02-07,Silver,8
+C00306,Divya,Agarwal,Female,37,Married,Civil Engineer,960000,Gurugram,Haryana,2018-03-19,Gold,8
+C00307,Suresh,Bhat,Male,61,Married,Data Scientist,2300000,Nagpur,Maharashtra,2023-10-05,Platinum,3
+C00308,Sanjay,Agarwal,Male,42,Married,Business,1880000,Thane,Maharashtra,2017-06-04,Platinum,9
+C00309,Sangeeta,Shah,Female,52,Married,Chartered Accountant,1640000,Coimbatore,Tamil Nadu,2016-06-06,Platinum,10
+C00310,Sunil,Agarwal,Male,32,Married,Doctor,1780000,Vadodara,Gujarat,2018-05-17,Platinum,8
+C00311,Sunil,Sharma,Male,40,Married,HR Executive,760000,Noida,Uttar Pradesh,2020-01-26,Gold,6
+C00312,Prashant,Bhat,Male,33,Married,Consultant,1090000,Jaipur,Rajasthan,2021-07-25,Gold,5
+C00313,Vikas,Chawla,Male,55,Married,Software Engineer,1470000,Chennai,Tamil Nadu,2024-05-15,Platinum,2
+C00314,Preeti,Gupta,Female,46,Married,Graphic Designer,550000,Chennai,Tamil Nadu,2022-09-30,Silver,4
+C00315,Tanya,Jadhav,Female,46,Married,Data Scientist,1680000,Pune,Maharashtra,2024-10-02,Platinum,2
+C00316,Swati,Kapoor,Female,52,Single,Financial Analyst,1230000,Surat,Gujarat,2023-06-10,Platinum,3
+C00317,Rajesh,Kumar,Male,64,Married,Financial Analyst,1450000,Bengaluru,Karnataka,2021-03-14,Platinum,5
+C00318,Rahul,Hegde,Male,53,Single,Sales Executive,790000,Ahmedabad,Gujarat,2021-06-05,Gold,5
+C00319,Manish,Rao,Male,55,Married,Chartered Accountant,1370000,Nagpur,Maharashtra,2023-03-11,Platinum,3
+C00320,Ashish,Rao,Male,52,Married,Sales Executive,460000,Chennai,Tamil Nadu,2019-12-09,Silver,7
+C00321,Sneha,Trivedi,Female,39,Married,Teacher,610000,Noida,Uttar Pradesh,2023-03-21,Silver,3
+C00322,Priya,Sharma,Female,25,Married,Teacher,470000,Bengaluru,Karnataka,2018-03-26,Silver,8
+C00323,Kriti,Malhotra,Female,34,Married,Software Engineer,1310000,Mumbai,Maharashtra,2023-12-24,Platinum,3
+C00324,Rohan,Shetty,Male,51,Single,Marketing Manager,1190000,Nagpur,Maharashtra,2023-12-04,Gold,3
+C00325,Bhavna,Shah,Female,53,Married,Data Scientist,1820000,Pune,Maharashtra,2023-12-28,Platinum,3
+C00326,Monika,Gowda,Female,30,Married,Doctor,1490000,Mumbai,Maharashtra,2016-03-13,Platinum,10
+C00327,Pooja,Shetty,Female,22,Married,Consultant,1150000,Noida,Uttar Pradesh,2023-08-17,Gold,3
+C00328,Pooja,Shah,Female,57,Single,Consultant,1930000,Vadodara,Gujarat,2022-12-03,Platinum,4
+C00329,Anil,Gowda,Male,43,Married,Marketing Manager,1180000,Nagpur,Maharashtra,2015-09-12,Gold,11
+C00330,Rahul,Kapoor,Male,49,Married,Marketing Manager,1710000,Bengaluru,Karnataka,2016-10-05,Platinum,10
+C00331,Sanjay,Kapoor,Male,33,Married,Data Scientist,1610000,Gurugram,Haryana,2015-11-29,Platinum,11
+C00332,Tanya,Chawla,Female,49,Single,Data Scientist,1170000,Delhi,Delhi,2015-08-29,Gold,11
+C00333,Abhishek,Reddy,Male,48,Single,Graphic Designer,710000,Thane,Maharashtra,2021-02-12,Gold,5
+C00334,Varun,Kumar,Male,41,Single,Graphic Designer,600000,Thane,Maharashtra,2015-01-05,Silver,11
+C00335,Suresh,Mishra,Male,46,Married,Business,1820000,Bengaluru,Karnataka,2019-08-23,Platinum,7
+C00336,Vikram,Trivedi,Male,59,Married,Consultant,1560000,Thane,Maharashtra,2015-09-20,Platinum,11
+C00337,Simran,Reddy,Female,45,Married,Architect,1140000,Nagpur,Maharashtra,2020-04-05,Gold,6
+C00338,Nisha,Saxena,Female,57,Married,HR Executive,950000,Nagpur,Maharashtra,2021-02-03,Gold,5
+C00339,Alok,Mishra,Male,36,Single,Consultant,1320000,Mysuru,Karnataka,2016-03-09,Platinum,10
+C00340,Vikas,Joshi,Male,47,Married,Doctor,2340000,Pune,Maharashtra,2016-11-26,Platinum,10
+C00341,Dinesh,Sharma,Male,62,Single,Business,1700000,Gurugram,Haryana,2018-08-26,Platinum,8
+C00342,Gaurav,Deshmukh,Male,44,Married,Financial Analyst,1390000,Kolkata,West Bengal,2016-12-15,Platinum,10
+C00343,Pankaj,Rao,Male,31,Single,HR Executive,460000,Pune,Maharashtra,2023-09-14,Silver,3
+C00344,Rohan,Bansal,Male,30,Married,Architect,900000,Jaipur,Rajasthan,2022-07-05,Gold,4
+C00345,Sunil,Agarwal,Male,36,Married,Civil Engineer,470000,Nagpur,Maharashtra,2019-12-30,Silver,7
+C00346,Neha,Shah,Female,42,Married,Data Scientist,1500000,Noida,Uttar Pradesh,2018-02-15,Platinum,8
+C00347,Bhavna,Shah,Female,23,Single,Sales Executive,630000,Ahmedabad,Gujarat,2018-08-23,Silver,8
+C00348,Deepak,Rao,Male,55,Married,Data Scientist,2120000,Hyderabad,Telangana,2022-05-11,Platinum,4
+C00349,Vikas,Joshi,Male,54,Single,Consultant,1540000,Delhi,Delhi,2022-02-09,Platinum,4
+C00350,Richa,Bhat,Female,38,Single,Marketing Manager,870000,Gurugram,Haryana,2016-01-10,Gold,10
+C00351,Sunil,Agarwal,Male,51,Married,Marketing Manager,1090000,Kolkata,West Bengal,2017-11-26,Gold,9
+C00352,Monika,Bansal,Female,29,Married,Graphic Designer,720000,Thane,Maharashtra,2018-09-02,Gold,8
+C00353,Meena,Mehta,Female,46,Married,Operations Manager,1350000,Vadodara,Gujarat,2021-03-19,Platinum,5
+C00354,Abhishek,Sharma,Male,47,Married,Financial Analyst,1420000,Thane,Maharashtra,2021-03-12,Platinum,5
+C00355,Vikas,Bansal,Male,36,Married,Software Engineer,890000,Chennai,Tamil Nadu,2024-11-01,Gold,2
+C00356,Neha,Singh,Female,41,Married,Architect,1040000,Mumbai,Maharashtra,2020-12-10,Gold,6
+C00357,Sunil,Mehta,Male,24,Married,Sales Executive,510000,Surat,Gujarat,2015-08-12,Silver,11
+C00358,Sonal,Agarwal,Female,51,Single,Architect,1080000,Vadodara,Gujarat,2023-02-26,Gold,3
+C00359,Sangeeta,Mishra,Female,30,Married,Civil Engineer,670000,Vadodara,Gujarat,2020-02-08,Silver,6
+C00360,Sunita,Pillai,Female,40,Single,Marketing Manager,900000,Coimbatore,Tamil Nadu,2015-09-12,Gold,11
+C00361,Vikram,Deshmukh,Male,32,Single,Operations Manager,960000,Chennai,Tamil Nadu,2021-09-16,Gold,5
+C00362,Rashmi,Verma,Female,48,Married,Software Engineer,1030000,Hyderabad,Telangana,2024-07-24,Gold,2
+C00363,Sachin,Pawar,Male,30,Married,Consultant,1630000,Mysuru,Karnataka,2022-02-07,Platinum,4
+C00364,Kriti,Chawla,Female,46,Single,Consultant,1260000,Mysuru,Karnataka,2023-01-03,Platinum,3
+C00365,Sunita,Kumar,Female,62,Married,Doctor,2310000,Kolkata,West Bengal,2022-05-30,Platinum,4
+C00366,Vikram,Gupta,Male,50,Married,Business,1500000,Mumbai,Maharashtra,2015-02-18,Platinum,11
+C00367,Meena,Trivedi,Female,25,Married,Chartered Accountant,810000,Pune,Maharashtra,2019-10-01,Gold,7
+C00368,Neha,Hegde,Female,51,Married,Marketing Manager,1210000,Thane,Maharashtra,2015-07-05,Platinum,11
+C00369,Manoj,Pillai,Male,33,Single,Software Engineer,1160000,Thane,Maharashtra,2017-02-12,Gold,9
+C00370,Amit,Verma,Male,42,Married,Operations Manager,770000,Chennai,Tamil Nadu,2022-01-28,Gold,4
+C00371,Ashish,Shetty,Male,28,Single,Doctor,1590000,Mumbai,Maharashtra,2018-01-26,Platinum,8
+C00372,Dinesh,Verma,Male,29,Single,Doctor,1560000,Gurugram,Haryana,2018-01-27,Platinum,8
+C00373,Sunil,Patel,Male,48,Married,Software Engineer,1310000,Thane,Maharashtra,2022-12-31,Platinum,4
+C00374,Sangeeta,Sharma,Female,32,Married,Graphic Designer,580000,Pune,Maharashtra,2017-10-05,Silver,9
+C00375,Sandeep,Mishra,Male,27,Married,Consultant,1500000,Surat,Gujarat,2021-04-08,Platinum,5
+C00376,Amit,Pillai,Male,39,Married,Software Engineer,1430000,Coimbatore,Tamil Nadu,2015-01-18,Platinum,11
+C00377,Isha,Mehta,Female,63,Married,Data Scientist,1640000,Nagpur,Maharashtra,2023-01-05,Platinum,3
+C00378,Arjun,Shah,Male,35,Married,Financial Analyst,1140000,Hyderabad,Telangana,2022-06-17,Gold,4
+C00379,Anjali,Rao,Female,45,Married,HR Executive,820000,Jaipur,Rajasthan,2021-02-11,Gold,5
+C00380,Ashish,Trivedi,Male,37,Married,Graphic Designer,540000,Hyderabad,Telangana,2019-05-23,Silver,7
+C00381,Gaurav,Saxena,Male,22,Single,Doctor,1130000,Hyderabad,Telangana,2023-09-02,Gold,3
+C00382,Deepika,Verma,Female,47,Married,Sales Executive,500000,Hyderabad,Telangana,2015-07-08,Silver,11
+C00383,Anita,Nair,Female,52,Married,Software Engineer,1480000,Gurugram,Haryana,2016-09-19,Platinum,10
+C00384,Anjali,Singh,Female,58,Married,HR Executive,950000,Coimbatore,Tamil Nadu,2022-02-24,Gold,4
+C00385,Isha,Mehta,Female,58,Single,Sales Executive,850000,Pune,Maharashtra,2016-11-04,Gold,10
+C00386,Nisha,Saxena,Female,54,Married,Data Scientist,1640000,Pune,Maharashtra,2024-10-23,Platinum,2
+C00387,Vijay,Shetty,Male,39,Married,Architect,980000,Hyderabad,Telangana,2023-09-27,Gold,3
+C00388,Aditya,Kapoor,Male,32,Married,HR Executive,850000,Surat,Gujarat,2021-02-25,Gold,5
+C00389,Sangeeta,Chawla,Female,28,Married,Operations Manager,1140000,Delhi,Delhi,2017-04-21,Gold,9
+C00390,Kriti,Mehta,Female,21,Married,Doctor,1900000,Coimbatore,Tamil Nadu,2023-08-06,Platinum,3
+C00391,Meena,Nair,Female,28,Married,Sales Executive,570000,Ahmedabad,Gujarat,2016-02-12,Silver,10
+C00392,Deepak,Malhotra,Male,61,Married,Sales Executive,880000,Mumbai,Maharashtra,2016-11-28,Gold,10
+C00393,Dinesh,Saxena,Male,58,Married,Financial Analyst,1470000,Gurugram,Haryana,2021-07-17,Platinum,5
+C00394,Neha,Saxena,Female,27,Single,Data Scientist,1380000,Jaipur,Rajasthan,2021-08-30,Platinum,5
+C00395,Amit,Verma,Male,49,Single,Software Engineer,1350000,Surat,Gujarat,2022-10-14,Platinum,4
+C00396,Monika,Pillai,Female,64,Married,Data Scientist,2030000,Thane,Maharashtra,2019-10-23,Platinum,7
+C00397,Kriti,Shah,Female,51,Married,Data Scientist,1940000,Noida,Uttar Pradesh,2022-05-06,Platinum,4
+C00398,Manish,Chawla,Male,60,Married,Business,2080000,Nagpur,Maharashtra,2020-03-24,Platinum,6
+C00399,Bhavna,Jadhav,Female,64,Married,Teacher,740000,Hyderabad,Telangana,2019-09-21,Gold,7
+C00400,Isha,Gowda,Female,31,Single,Doctor,1560000,Chennai,Tamil Nadu,2019-04-23,Platinum,7
+C00401,Deepak,Kumar,Male,53,Single,Sales Executive,1060000,Pune,Maharashtra,2019-06-28,Gold,7
+C00402,Meena,Mehta,Female,46,Married,Sales Executive,590000,Jaipur,Rajasthan,2020-04-09,Silver,6
+C00403,Sandeep,Singh,Male,41,Married,Doctor,2210000,Mysuru,Karnataka,2020-12-26,Platinum,6
+C00404,Isha,Jadhav,Female,43,Married,Chartered Accountant,1470000,Mysuru,Karnataka,2016-12-28,Platinum,10
+C00405,Nitin,Trivedi,Male,53,Married,Consultant,1430000,Gurugram,Haryana,2015-12-10,Platinum,11
+C00406,Nisha,Malhotra,Female,52,Married,Sales Executive,820000,Surat,Gujarat,2023-07-16,Gold,3
+C00407,Alok,Saxena,Male,43,Married,HR Executive,800000,Kolkata,West Bengal,2021-01-27,Gold,5
+C00408,Gaurav,Reddy,Male,29,Married,Business,1780000,Chennai,Tamil Nadu,2021-09-02,Platinum,5
+C00409,Rashmi,Trivedi,Female,23,Married,Financial Analyst,940000,Ahmedabad,Gujarat,2018-01-24,Gold,8
+C00410,Anil,Mishra,Male,63,Married,Software Engineer,1610000,Coimbatore,Tamil Nadu,2021-03-15,Platinum,5
+C00411,Vijay,Gupta,Male,47,Single,Chartered Accountant,1600000,Ahmedabad,Gujarat,2017-05-27,Platinum,9
+C00412,Sonal,Pillai,Female,63,Married,HR Executive,930000,Surat,Gujarat,2022-06-07,Gold,4
+C00413,Anjali,Bhat,Female,51,Single,Operations Manager,1690000,Noida,Uttar Pradesh,2015-06-05,Platinum,11
+C00414,Richa,Pawar,Female,43,Married,Consultant,1430000,Pune,Maharashtra,2021-10-27,Platinum,5
+C00415,Divya,Reddy,Female,63,Married,Sales Executive,840000,Delhi,Delhi,2015-04-01,Gold,11
+C00416,Deepak,Mishra,Male,58,Single,Operations Manager,1550000,Hyderabad,Telangana,2015-09-30,Platinum,11
+C00417,Ajay,Bhat,Male,31,Single,Operations Manager,950000,Surat,Gujarat,2017-08-31,Gold,9
+C00418,Rajesh,Kulkarni,Male,62,Married,Software Engineer,1520000,Coimbatore,Tamil Nadu,2016-01-09,Platinum,10
+C00419,Tanya,Pawar,Female,21,Married,Marketing Manager,430000,Vadodara,Gujarat,2020-06-07,Silver,6
+C00420,Isha,Singh,Female,21,Married,Graphic Designer,600000,Mumbai,Maharashtra,2016-12-17,Silver,10
+C00421,Priya,Rao,Female,30,Single,Operations Manager,980000,Delhi,Delhi,2020-06-07,Gold,6
+C00422,Kriti,Gowda,Female,33,Single,Teacher,580000,Delhi,Delhi,2016-11-16,Silver,10
+C00423,Vikram,Shetty,Male,36,Married,Doctor,1510000,Kolkata,West Bengal,2020-05-25,Platinum,6
+C00424,Sandeep,Deshmukh,Male,29,Married,Teacher,660000,Bengaluru,Karnataka,2024-03-10,Silver,2
+C00425,Manish,Pawar,Male,22,Married,Architect,810000,Bengaluru,Karnataka,2020-11-22,Gold,6
+C00426,Priya,Bansal,Female,38,Single,Graphic Designer,540000,Nagpur,Maharashtra,2021-03-02,Silver,5
+C00427,Abhishek,Hegde,Male,65,Single,Teacher,690000,Jaipur,Rajasthan,2017-09-26,Silver,9
+C00428,Sneha,Pawar,Female,41,Married,Data Scientist,2040000,Mumbai,Maharashtra,2015-10-18,Platinum,11
+C00429,Vikas,Sharma,Male,58,Single,HR Executive,1010000,Noida,Uttar Pradesh,2017-06-02,Gold,9
+C00430,Sachin,Bhat,Male,27,Single,Graphic Designer,430000,Thane,Maharashtra,2015-08-20,Silver,11
+C00431,Sanjay,Agarwal,Male,23,Single,HR Executive,580000,Pune,Maharashtra,2022-09-24,Silver,4
+C00432,Priya,Trivedi,Female,22,Married,Financial Analyst,800000,Noida,Uttar Pradesh,2018-01-25,Gold,8
+C00433,Simran,Kumar,Female,48,Single,Software Engineer,1210000,Bengaluru,Karnataka,2021-02-28,Platinum,5
+C00434,Manoj,Mishra,Male,31,Single,HR Executive,610000,Gurugram,Haryana,2021-10-30,Silver,5
+C00435,Gaurav,Gupta,Male,61,Single,Architect,1380000,Gurugram,Haryana,2024-10-27,Platinum,2
+C00436,Pooja,Pillai,Female,41,Single,Software Engineer,1350000,Chennai,Tamil Nadu,2017-08-10,Platinum,9
+C00437,Ashish,Chawla,Male,55,Single,Marketing Manager,1290000,Nagpur,Maharashtra,2017-05-14,Platinum,9
+C00438,Ritu,Patel,Female,59,Married,Consultant,1180000,Kolkata,West Bengal,2015-10-27,Gold,11
+C00439,Priya,Rao,Female,39,Married,HR Executive,720000,Coimbatore,Tamil Nadu,2024-05-07,Gold,2
+C00440,Sandeep,Joshi,Male,54,Married,Teacher,730000,Mysuru,Karnataka,2022-06-07,Gold,4
+C00441,Karan,Deshmukh,Male,33,Married,HR Executive,810000,Gurugram,Haryana,2019-04-07,Gold,7
+C00442,Sangeeta,Sharma,Female,55,Married,Chartered Accountant,1460000,Gurugram,Haryana,2021-06-06,Platinum,5
+C00443,Pankaj,Reddy,Male,31,Married,Data Scientist,1470000,Nagpur,Maharashtra,2021-08-02,Platinum,5
+C00444,Varun,Shetty,Male,49,Married,Operations Manager,1070000,Kolkata,West Bengal,2016-04-28,Gold,10
+C00445,Sonal,Rao,Female,32,Married,Graphic Designer,580000,Surat,Gujarat,2015-06-13,Silver,11
+C00446,Rashmi,Gupta,Female,39,Married,Doctor,2220000,Surat,Gujarat,2024-06-28,Platinum,2
+C00447,Sonal,Hegde,Female,41,Single,Consultant,1110000,Thane,Maharashtra,2020-08-20,Gold,6
+C00448,Kriti,Bansal,Female,51,Married,Civil Engineer,930000,Bengaluru,Karnataka,2016-10-04,Gold,10
+C00449,Vikas,Reddy,Male,53,Married,HR Executive,650000,Coimbatore,Tamil Nadu,2016-11-26,Silver,10
+C00450,Vijay,Shah,Male,43,Married,Graphic Designer,450000,Pune,Maharashtra,2017-11-15,Silver,9
+C00451,Sonal,Chawla,Female,32,Married,Operations Manager,1090000,Noida,Uttar Pradesh,2017-07-14,Gold,9
+C00452,Ritu,Bansal,Female,39,Single,Doctor,2020000,Surat,Gujarat,2016-04-28,Platinum,10
+C00453,Sanjay,Reddy,Male,41,Married,Operations Manager,1220000,Ahmedabad,Gujarat,2020-12-26,Platinum,6
+C00454,Divya,Nair,Female,63,Single,Chartered Accountant,1950000,Surat,Gujarat,2016-10-07,Platinum,10
+C00455,Suresh,Patel,Male,64,Married,Marketing Manager,1580000,Surat,Gujarat,2021-08-29,Platinum,5
+C00456,Aditya,Patel,Male,24,Married,Civil Engineer,790000,Surat,Gujarat,2015-01-20,Gold,11
+C00457,Deepak,Agarwal,Male,52,Married,Business,1710000,Noida,Uttar Pradesh,2020-10-11,Platinum,6
+C00458,Pankaj,Sharma,Male,55,Married,HR Executive,950000,Chennai,Tamil Nadu,2024-12-04,Gold,2
+C00459,Gaurav,Gowda,Male,27,Married,HR Executive,510000,Surat,Gujarat,2019-02-25,Silver,7
+C00460,Aditya,Malhotra,Male,60,Single,Business,2370000,Surat,Gujarat,2020-11-19,Platinum,6
+C00461,Prashant,Sharma,Male,43,Single,HR Executive,700000,Gurugram,Haryana,2019-07-13,Gold,7
+C00462,Nisha,Patel,Female,45,Married,Chartered Accountant,1070000,Ahmedabad,Gujarat,2018-12-01,Gold,8
+C00463,Sangeeta,Hegde,Female,49,Single,Teacher,570000,Surat,Gujarat,2024-09-24,Silver,2
+C00464,Sneha,Malhotra,Female,30,Married,Civil Engineer,810000,Jaipur,Rajasthan,2017-06-06,Gold,9
+C00465,Anita,Sharma,Female,54,Single,Consultant,1270000,Vadodara,Gujarat,2015-09-09,Platinum,11
+C00466,Abhishek,Shah,Male,27,Married,HR Executive,680000,Jaipur,Rajasthan,2016-12-29,Silver,10
+C00467,Sachin,Nair,Male,49,Single,Software Engineer,1300000,Noida,Uttar Pradesh,2015-10-06,Platinum,11
+C00468,Isha,Jadhav,Female,60,Single,Business,1680000,Jaipur,Rajasthan,2016-09-02,Platinum,10
+C00469,Prashant,Sharma,Male,32,Married,Architect,830000,Coimbatore,Tamil Nadu,2017-04-20,Gold,9
+C00470,Poonam,Shetty,Female,27,Married,Marketing Manager,980000,Kolkata,West Bengal,2016-03-05,Gold,10
+C00471,Sandeep,Pillai,Male,60,Married,HR Executive,840000,Jaipur,Rajasthan,2023-06-14,Gold,3
+C00472,Meena,Jadhav,Female,53,Married,Financial Analyst,1500000,Delhi,Delhi,2015-02-13,Platinum,11
+C00473,Kunal,Gowda,Male,57,Married,Software Engineer,1290000,Kolkata,West Bengal,2017-05-01,Platinum,9
+C00474,Aarti,Mishra,Female,63,Married,Consultant,1540000,Surat,Gujarat,2016-07-01,Platinum,10
+C00475,Sonal,Shah,Female,65,Single,Chartered Accountant,2100000,Mysuru,Karnataka,2023-08-13,Platinum,3
+C00476,Jyoti,Singh,Female,64,Single,Sales Executive,910000,Pune,Maharashtra,2024-05-30,Gold,2
+C00477,Rahul,Jadhav,Male,59,Married,Chartered Accountant,1850000,Coimbatore,Tamil Nadu,2017-07-11,Platinum,9
+C00478,Isha,Verma,Female,49,Married,Marketing Manager,1140000,Delhi,Delhi,2023-09-18,Gold,3
+C00479,Kriti,Rao,Female,32,Married,Civil Engineer,710000,Hyderabad,Telangana,2020-06-20,Gold,6
+C00480,Sangeeta,Pillai,Female,48,Married,Architect,1360000,Pune,Maharashtra,2023-12-18,Platinum,3
+C00481,Sunita,Mehta,Female,45,Married,Data Scientist,1910000,Pune,Maharashtra,2017-01-26,Platinum,9
+C00482,Aarti,Jadhav,Female,38,Married,Business,1390000,Coimbatore,Tamil Nadu,2015-04-22,Platinum,11
+C00483,Anil,Kumar,Male,34,Married,Teacher,600000,Hyderabad,Telangana,2019-12-21,Silver,7
+C00484,Riya,Bansal,Female,43,Married,HR Executive,770000,Kolkata,West Bengal,2020-12-15,Gold,6
+C00485,Anita,Bansal,Female,37,Married,Data Scientist,1370000,Pune,Maharashtra,2020-03-03,Platinum,6
+C00486,Sangeeta,Reddy,Female,31,Married,Financial Analyst,1340000,Mumbai,Maharashtra,2023-11-14,Platinum,3
+C00487,Sandeep,Bansal,Male,44,Married,Software Engineer,1280000,Kolkata,West Bengal,2017-07-06,Platinum,9
+C00488,Arjun,Mehta,Male,65,Married,Sales Executive,610000,Bengaluru,Karnataka,2023-11-19,Silver,3
+C00489,Ritu,Kumar,Female,48,Married,Sales Executive,730000,Hyderabad,Telangana,2022-10-09,Gold,4
+C00490,Rashmi,Bansal,Female,58,Single,Marketing Manager,1720000,Delhi,Delhi,2020-03-16,Platinum,6
+C00491,Karan,Shetty,Male,46,Married,Chartered Accountant,1530000,Ahmedabad,Gujarat,2017-06-04,Platinum,9
+C00492,Priya,Sharma,Female,60,Married,Software Engineer,1690000,Gurugram,Haryana,2017-12-03,Platinum,9
+C00493,Vikram,Sharma,Male,48,Married,Teacher,880000,Nagpur,Maharashtra,2021-01-16,Gold,5
+C00494,Amit,Kapoor,Male,37,Single,Consultant,1340000,Mysuru,Karnataka,2021-10-09,Platinum,5
+C00495,Ajay,Shetty,Male,24,Married,Data Scientist,1110000,Surat,Gujarat,2022-04-10,Gold,4
+C00496,Sachin,Hegde,Male,56,Married,Doctor,2820000,Chennai,Tamil Nadu,2019-09-21,Platinum,7
+C00497,Anjali,Bhat,Female,30,Married,Graphic Designer,560000,Delhi,Delhi,2020-09-07,Silver,6
+C00498,Manish,Rao,Male,43,Single,Architect,1090000,Pune,Maharashtra,2021-02-18,Gold,5
+C00499,Rashmi,Trivedi,Female,46,Single,Doctor,1740000,Hyderabad,Telangana,2024-02-09,Platinum,2
+C00500,Richa,Hegde,Female,51,Single,Teacher,630000,Mysuru,Karnataka,2022-05-12,Silver,4
+C00501,Rashmi,Pandey,Female,36,Married,Civil Engineer,720000,Vadodara,Gujarat,2018-03-15,Gold,8
+C00502,Anita,Kapoor,Female,58,Single,Financial Analyst,1310000,Delhi,Delhi,2023-12-05,Platinum,3
+C00503,Rahul,Sharma,Male,27,Married,Data Scientist,1360000,Hyderabad,Telangana,2020-05-01,Platinum,6
+C00504,Jyoti,Verma,Female,30,Married,Software Engineer,1170000,Bengaluru,Karnataka,2024-03-10,Gold,2
+C00505,Rashmi,Verma,Female,54,Married,Data Scientist,1690000,Chennai,Tamil Nadu,2022-11-11,Platinum,4
+C00506,Sunil,Joshi,Male,28,Married,Financial Analyst,1070000,Mysuru,Karnataka,2019-03-08,Gold,7
+C00507,Meena,Hegde,Female,27,Married,Marketing Manager,920000,Coimbatore,Tamil Nadu,2020-11-19,Gold,6
+C00508,Neha,Deshmukh,Female,60,Married,Civil Engineer,1260000,Noida,Uttar Pradesh,2021-09-11,Platinum,5
+C00509,Rashmi,Bhat,Female,23,Married,Graphic Designer,470000,Delhi,Delhi,2023-05-13,Silver,3
+C00510,Sunita,Kumar,Female,64,Single,Marketing Manager,1580000,Ahmedabad,Gujarat,2018-10-27,Platinum,8
+C00511,Nisha,Gupta,Female,57,Single,Architect,1040000,Hyderabad,Telangana,2022-01-26,Gold,4
+C00512,Gaurav,Agarwal,Male,23,Single,Sales Executive,600000,Surat,Gujarat,2023-02-16,Silver,3
+C00513,Anjali,Rao,Female,53,Single,Architect,1230000,Kolkata,West Bengal,2023-06-05,Platinum,3
+C00514,Ritu,Verma,Female,41,Married,Business,1640000,Coimbatore,Tamil Nadu,2019-06-23,Platinum,7
+C00515,Sandeep,Verma,Male,33,Married,Operations Manager,1150000,Vadodara,Gujarat,2015-04-25,Gold,11
+C00516,Vijay,Kapoor,Male,50,Married,Teacher,650000,Noida,Uttar Pradesh,2024-07-31,Silver,2
+C00517,Sanjay,Kapoor,Male,50,Married,Doctor,2500000,Ahmedabad,Gujarat,2024-08-28,Platinum,2
+C00518,Preeti,Saxena,Female,35,Single,Marketing Manager,1100000,Noida,Uttar Pradesh,2018-03-03,Gold,8
+C00519,Kavita,Agarwal,Female,57,Married,Sales Executive,660000,Ahmedabad,Gujarat,2021-07-05,Silver,5
+C00520,Manoj,Deshmukh,Male,40,Married,Architect,1070000,Surat,Gujarat,2023-07-22,Gold,3
+C00521,Tanya,Mishra,Female,63,Single,Marketing Manager,1970000,Vadodara,Gujarat,2024-07-28,Platinum,2
+C00522,Deepak,Patel,Male,28,Married,Teacher,490000,Vadodara,Gujarat,2016-07-02,Silver,10
+C00523,Divya,Deshmukh,Female,40,Married,Sales Executive,640000,Gurugram,Haryana,2021-11-24,Silver,5
+C00524,Richa,Bhat,Female,50,Married,Chartered Accountant,1830000,Gurugram,Haryana,2017-08-03,Platinum,9
+C00525,Poonam,Mehta,Female,29,Married,Financial Analyst,1450000,Jaipur,Rajasthan,2018-07-13,Platinum,8
+C00526,Sachin,Deshmukh,Male,46,Single,Financial Analyst,1320000,Kolkata,West Bengal,2022-03-30,Platinum,4
+C00527,Manoj,Kapoor,Male,61,Married,Civil Engineer,1240000,Vadodara,Gujarat,2023-01-12,Platinum,3
+C00528,Ajay,Saxena,Male,26,Married,Civil Engineer,670000,Thane,Maharashtra,2016-05-25,Silver,10
+C00529,Karan,Mishra,Male,24,Married,Financial Analyst,1200000,Ahmedabad,Gujarat,2016-02-04,Platinum,10
+C00530,Simran,Agarwal,Female,31,Married,Software Engineer,1170000,Delhi,Delhi,2020-09-03,Gold,6
+C00531,Shweta,Rao,Female,49,Married,Teacher,730000,Mysuru,Karnataka,2021-02-18,Gold,5
+C00532,Isha,Trivedi,Female,48,Married,Graphic Designer,570000,Noida,Uttar Pradesh,2019-07-16,Silver,7
+C00533,Monika,Bansal,Female,53,Married,Architect,1280000,Ahmedabad,Gujarat,2015-06-24,Platinum,11
+C00534,Sunita,Agarwal,Female,32,Single,HR Executive,740000,Noida,Uttar Pradesh,2021-08-08,Gold,5
+C00535,Sneha,Hegde,Female,40,Single,Business,1700000,Chennai,Tamil Nadu,2022-06-30,Platinum,4
+C00536,Divya,Shetty,Female,57,Married,Doctor,1870000,Surat,Gujarat,2018-04-08,Platinum,8
+C00537,Nisha,Trivedi,Female,27,Married,Graphic Designer,590000,Chennai,Tamil Nadu,2024-05-15,Silver,2
+C00538,Dinesh,Bhat,Male,23,Married,Business,1760000,Bengaluru,Karnataka,2020-09-23,Platinum,6
+C00539,Deepak,Sharma,Male,46,Married,Business,2110000,Gurugram,Haryana,2018-02-12,Platinum,8
+C00540,Dinesh,Kulkarni,Male,62,Married,Financial Analyst,1400000,Hyderabad,Telangana,2023-10-28,Platinum,3
+C00541,Poonam,Verma,Female,38,Single,Civil Engineer,770000,Thane,Maharashtra,2017-05-15,Gold,9
+C00542,Rashmi,Chawla,Female,58,Married,Civil Engineer,1030000,Surat,Gujarat,2018-09-09,Gold,8
+C00543,Rajesh,Shah,Male,43,Married,Marketing Manager,1610000,Noida,Uttar Pradesh,2021-12-18,Platinum,5
+C00544,Poonam,Singh,Female,36,Single,Sales Executive,500000,Gurugram,Haryana,2015-12-20,Silver,11
+C00545,Kriti,Sharma,Female,61,Married,HR Executive,690000,Delhi,Delhi,2015-11-28,Silver,11
+C00546,Rajesh,Hegde,Male,57,Married,Teacher,930000,Ahmedabad,Gujarat,2020-02-06,Gold,6
+C00547,Manoj,Rao,Male,41,Married,Consultant,1140000,Surat,Gujarat,2017-08-25,Gold,9
+C00548,Poonam,Kulkarni,Female,33,Single,Sales Executive,550000,Hyderabad,Telangana,2021-10-23,Silver,5
+C00549,Anita,Mishra,Female,51,Married,Business,1750000,Vadodara,Gujarat,2019-12-21,Platinum,7
+C00550,Poonam,Kapoor,Female,56,Married,Operations Manager,1180000,Hyderabad,Telangana,2016-05-31,Gold,10
+C00551,Sneha,Nair,Female,45,Single,Consultant,1230000,Chennai,Tamil Nadu,2019-12-27,Platinum,7
+C00552,Simran,Pawar,Female,46,Married,Architect,1440000,Gurugram,Haryana,2024-09-13,Platinum,2
+C00553,Swati,Agarwal,Female,22,Married,Teacher,400000,Nagpur,Maharashtra,2017-05-01,Silver,9
+C00554,Neha,Saxena,Female,57,Single,Financial Analyst,1370000,Vadodara,Gujarat,2017-07-01,Platinum,9
+C00555,Monika,Sharma,Female,50,Married,Teacher,630000,Delhi,Delhi,2021-03-24,Silver,5
+C00556,Sunil,Pawar,Male,60,Married,Teacher,700000,Kolkata,West Bengal,2021-01-27,Gold,5
+C00557,Sunil,Sharma,Male,39,Single,Graphic Designer,560000,Noida,Uttar Pradesh,2016-08-21,Silver,10
+C00558,Sandeep,Mishra,Male,43,Married,Sales Executive,590000,Mumbai,Maharashtra,2024-05-05,Silver,2
+C00559,Anita,Patel,Female,54,Married,Civil Engineer,890000,Delhi,Delhi,2018-07-14,Gold,8
+C00560,Rashmi,Shah,Female,47,Married,Consultant,1290000,Nagpur,Maharashtra,2020-10-19,Platinum,6
+C00561,Sunita,Malhotra,Female,58,Married,Civil Engineer,760000,Delhi,Delhi,2017-04-28,Gold,9
+C00562,Rohan,Verma,Male,59,Married,Operations Manager,1560000,Kolkata,West Bengal,2015-05-26,Platinum,11
+C00563,Vikram,Agarwal,Male,35,Single,Civil Engineer,820000,Chennai,Tamil Nadu,2019-03-11,Gold,7
+C00564,Rahul,Singh,Male,29,Single,Consultant,1420000,Coimbatore,Tamil Nadu,2018-07-07,Platinum,8
+C00565,Suresh,Kulkarni,Male,38,Married,Software Engineer,1410000,Nagpur,Maharashtra,2017-09-22,Platinum,9
+C00566,Nisha,Agarwal,Female,45,Married,HR Executive,740000,Vadodara,Gujarat,2019-07-30,Gold,7
+C00567,Vikas,Patel,Male,38,Single,Software Engineer,1230000,Surat,Gujarat,2024-06-21,Platinum,2
+C00568,Nitin,Rao,Male,39,Single,Operations Manager,1030000,Pune,Maharashtra,2023-07-18,Gold,3
+C00569,Sonal,Mishra,Female,38,Married,Graphic Designer,510000,Gurugram,Haryana,2020-11-02,Silver,6
+C00570,Gaurav,Kapoor,Male,22,Single,Operations Manager,790000,Bengaluru,Karnataka,2016-09-03,Gold,10
+C00571,Gaurav,Shetty,Male,32,Single,Operations Manager,1270000,Thane,Maharashtra,2022-01-21,Platinum,4
+C00572,Meena,Nair,Female,65,Single,Business,1130000,Kolkata,West Bengal,2022-08-02,Gold,4
+C00573,Abhishek,Pillai,Male,49,Single,HR Executive,730000,Delhi,Delhi,2024-10-03,Gold,2
+C00574,Swati,Kulkarni,Female,64,Single,Chartered Accountant,2080000,Gurugram,Haryana,2024-04-22,Platinum,2
+C00575,Nisha,Mehta,Female,24,Married,Sales Executive,390000,Noida,Uttar Pradesh,2022-01-07,Silver,4
+C00576,Anjali,Joshi,Female,62,Single,Operations Manager,1140000,Coimbatore,Tamil Nadu,2023-12-07,Gold,3
+C00577,Nitin,Gowda,Male,31,Married,Sales Executive,610000,Surat,Gujarat,2018-10-26,Silver,8
+C00578,Shweta,Sharma,Female,33,Married,Teacher,360000,Surat,Gujarat,2024-03-29,Silver,2
+C00579,Dinesh,Hegde,Male,55,Married,Civil Engineer,970000,Chennai,Tamil Nadu,2015-04-14,Gold,11
+C00580,Sachin,Verma,Male,63,Single,Architect,1330000,Thane,Maharashtra,2016-11-09,Platinum,10
+C00581,Pankaj,Mehta,Male,28,Single,Consultant,1070000,Hyderabad,Telangana,2017-08-17,Gold,9
+C00582,Monika,Jadhav,Female,35,Married,Consultant,1200000,Vadodara,Gujarat,2016-12-09,Platinum,10
+C00583,Ashish,Nair,Male,45,Married,Architect,1250000,Chennai,Tamil Nadu,2017-07-10,Platinum,9
+C00584,Vijay,Hegde,Male,47,Married,Teacher,470000,Noida,Uttar Pradesh,2021-06-21,Silver,5
+C00585,Tanya,Pawar,Female,60,Married,HR Executive,900000,Thane,Maharashtra,2018-09-02,Gold,8
+C00586,Nitin,Bansal,Male,36,Married,Graphic Designer,720000,Mysuru,Karnataka,2018-11-02,Gold,8
+C00587,Alok,Pawar,Male,49,Single,HR Executive,930000,Kolkata,West Bengal,2024-04-04,Gold,2
+C00588,Sanjay,Trivedi,Male,35,Single,Business,1850000,Gurugram,Haryana,2024-11-14,Platinum,2
+C00589,Suresh,Saxena,Male,62,Single,Marketing Manager,1340000,Noida,Uttar Pradesh,2020-08-30,Platinum,6
+C00590,Deepak,Deshmukh,Male,57,Single,Business,1760000,Nagpur,Maharashtra,2017-08-31,Platinum,9
+C00591,Rajesh,Kumar,Male,25,Single,Sales Executive,530000,Kolkata,West Bengal,2018-10-29,Silver,8
+C00592,Swati,Pandey,Female,59,Single,Graphic Designer,790000,Surat,Gujarat,2018-05-29,Gold,8
+C00593,Amit,Shah,Male,61,Married,Software Engineer,1490000,Coimbatore,Tamil Nadu,2022-02-28,Platinum,4
+C00594,Vikram,Shah,Male,39,Single,Consultant,1400000,Mumbai,Maharashtra,2024-03-10,Platinum,2
+C00595,Isha,Pandey,Female,33,Single,Consultant,1220000,Mysuru,Karnataka,2017-02-14,Platinum,9
+C00596,Karan,Trivedi,Male,48,Single,Civil Engineer,830000,Mumbai,Maharashtra,2022-06-16,Gold,4
+C00597,Sonal,Reddy,Female,42,Married,Marketing Manager,1000000,Kolkata,West Bengal,2019-08-05,Gold,7
+C00598,Nitin,Jadhav,Male,54,Married,Data Scientist,1750000,Gurugram,Haryana,2020-09-01,Platinum,6
+C00599,Vikram,Joshi,Male,37,Married,Data Scientist,1390000,Noida,Uttar Pradesh,2017-07-25,Platinum,9
+C00600,Manoj,Bhat,Male,21,Married,HR Executive,530000,Ahmedabad,Gujarat,2015-04-20,Silver,11
+C00601,Anil,Shah,Male,56,Married,Sales Executive,1010000,Mumbai,Maharashtra,2024-11-09,Gold,2
+C00602,Rajesh,Pawar,Male,59,Married,Software Engineer,1850000,Kolkata,West Bengal,2022-10-06,Platinum,4
+C00603,Deepak,Agarwal,Male,65,Single,Consultant,1560000,Ahmedabad,Gujarat,2019-04-22,Platinum,7
+C00604,Vikas,Chawla,Male,42,Married,Marketing Manager,950000,Surat,Gujarat,2017-01-30,Gold,9
+C00605,Vikram,Hegde,Male,27,Married,Financial Analyst,1110000,Ahmedabad,Gujarat,2017-10-01,Gold,9
+C00606,Ajay,Kulkarni,Male,56,Married,Teacher,830000,Mumbai,Maharashtra,2016-06-06,Gold,10
+C00607,Sachin,Kapoor,Male,25,Married,Business,1090000,Pune,Maharashtra,2024-08-25,Gold,2
+C00608,Sanjay,Gupta,Male,57,Single,Doctor,2360000,Bengaluru,Karnataka,2017-03-05,Platinum,9
+C00609,Nitin,Deshmukh,Male,40,Single,Marketing Manager,1010000,Mysuru,Karnataka,2023-04-02,Gold,3
+C00610,Anjali,Verma,Female,36,Married,Sales Executive,640000,Mysuru,Karnataka,2018-02-03,Silver,8
+C00611,Pankaj,Jadhav,Male,22,Married,Doctor,1700000,Mysuru,Karnataka,2017-12-24,Platinum,9
+C00612,Anita,Verma,Female,40,Single,Teacher,540000,Thane,Maharashtra,2019-03-03,Silver,7
+C00613,Richa,Verma,Female,65,Married,Civil Engineer,1260000,Ahmedabad,Gujarat,2021-07-14,Platinum,5
+C00614,Abhishek,Pillai,Male,64,Married,Business,2670000,Mumbai,Maharashtra,2024-02-26,Platinum,2
+C00615,Anita,Agarwal,Female,23,Single,Civil Engineer,620000,Thane,Maharashtra,2024-12-27,Silver,2
+C00616,Riya,Joshi,Female,26,Married,Civil Engineer,630000,Delhi,Delhi,2019-10-09,Silver,7
+C00617,Pankaj,Mishra,Male,54,Single,Sales Executive,640000,Kolkata,West Bengal,2021-04-18,Silver,5
+C00618,Ashish,Shetty,Male,47,Single,Marketing Manager,1160000,Kolkata,West Bengal,2020-02-06,Gold,6
+C00619,Swati,Rao,Female,40,Married,HR Executive,810000,Jaipur,Rajasthan,2021-06-12,Gold,5
+C00620,Sneha,Kulkarni,Female,62,Married,Civil Engineer,1090000,Hyderabad,Telangana,2016-01-27,Gold,10
+C00621,Dinesh,Mishra,Male,29,Single,HR Executive,770000,Mumbai,Maharashtra,2024-06-23,Gold,2
+C00622,Ashish,Kumar,Male,24,Married,Operations Manager,780000,Pune,Maharashtra,2023-07-09,Gold,3
+C00623,Aditya,Rao,Male,48,Single,Chartered Accountant,1720000,Pune,Maharashtra,2016-10-12,Platinum,10
+C00624,Sandeep,Patel,Male,54,Married,Teacher,580000,Delhi,Delhi,2021-08-29,Silver,5
+C00625,Sangeeta,Bhat,Female,32,Married,Software Engineer,1290000,Coimbatore,Tamil Nadu,2016-08-16,Platinum,10
+C00626,Amit,Bhat,Male,48,Married,Financial Analyst,1080000,Kolkata,West Bengal,2020-12-31,Gold,6
+C00627,Manish,Hegde,Male,26,Single,Software Engineer,950000,Kolkata,West Bengal,2018-07-22,Gold,8
+C00628,Tanya,Joshi,Female,57,Single,Doctor,2450000,Bengaluru,Karnataka,2016-11-11,Platinum,10
+C00629,Nitin,Nair,Male,50,Married,Chartered Accountant,1540000,Mysuru,Karnataka,2017-08-12,Platinum,9
+C00630,Suresh,Deshmukh,Male,31,Married,Graphic Designer,540000,Mumbai,Maharashtra,2015-04-20,Silver,11
+C00631,Poonam,Shah,Female,48,Married,Consultant,1510000,Delhi,Delhi,2023-04-24,Platinum,3
+C00632,Riya,Hegde,Female,61,Married,HR Executive,1040000,Chennai,Tamil Nadu,2018-01-21,Gold,8
+C00633,Vikas,Mehta,Male,40,Married,Chartered Accountant,1740000,Nagpur,Maharashtra,2018-02-08,Platinum,8
+C00634,Anita,Pawar,Female,34,Single,Financial Analyst,1210000,Nagpur,Maharashtra,2023-06-02,Platinum,3
+C00635,Sandeep,Chawla,Male,43,Married,Software Engineer,1500000,Gurugram,Haryana,2024-09-12,Platinum,2
+C00636,Aditya,Gowda,Male,46,Married,HR Executive,800000,Hyderabad,Telangana,2021-10-25,Gold,5
+C00637,Simran,Singh,Female,59,Married,Consultant,1420000,Bengaluru,Karnataka,2017-08-21,Platinum,9
+C00638,Kunal,Sharma,Male,30,Married,Graphic Designer,500000,Kolkata,West Bengal,2021-06-25,Silver,5
+C00639,Vikram,Malhotra,Male,57,Single,Civil Engineer,1120000,Noida,Uttar Pradesh,2022-06-20,Gold,4
+C00640,Nitin,Rao,Male,30,Married,Software Engineer,1050000,Pune,Maharashtra,2019-11-01,Gold,7
+C00641,Manoj,Saxena,Male,40,Married,Financial Analyst,1430000,Thane,Maharashtra,2022-06-03,Platinum,4
+C00642,Anil,Deshmukh,Male,29,Married,Financial Analyst,660000,Chennai,Tamil Nadu,2015-09-06,Silver,11
+C00643,Alok,Hegde,Male,27,Single,Software Engineer,770000,Coimbatore,Tamil Nadu,2020-12-25,Gold,6
+C00644,Sunil,Agarwal,Male,27,Married,Civil Engineer,540000,Nagpur,Maharashtra,2016-03-07,Silver,10
+C00645,Sachin,Bhat,Male,64,Married,Consultant,1240000,Vadodara,Gujarat,2024-02-06,Platinum,2
+C00646,Preeti,Singh,Female,35,Single,Architect,720000,Chennai,Tamil Nadu,2016-01-01,Gold,10
+C00647,Sangeeta,Mehta,Female,55,Married,Consultant,2100000,Kolkata,West Bengal,2023-01-25,Platinum,3
+C00648,Anita,Kulkarni,Female,21,Married,Sales Executive,490000,Coimbatore,Tamil Nadu,2022-09-18,Silver,4
+C00649,Nisha,Bansal,Female,58,Married,Financial Analyst,1570000,Mysuru,Karnataka,2020-03-03,Platinum,6
+C00650,Vijay,Verma,Male,46,Married,Graphic Designer,650000,Bengaluru,Karnataka,2024-02-13,Silver,2
+C00651,Rahul,Singh,Male,50,Single,Civil Engineer,890000,Chennai,Tamil Nadu,2020-12-31,Gold,6
+C00652,Richa,Bhat,Female,49,Married,Consultant,1350000,Mumbai,Maharashtra,2015-01-19,Platinum,11
+C00653,Anita,Mehta,Female,42,Married,Doctor,2490000,Gurugram,Haryana,2024-11-12,Platinum,2
+C00654,Sunita,Pandey,Female,55,Married,Consultant,1600000,Hyderabad,Telangana,2023-10-06,Platinum,3
+C00655,Sunil,Chawla,Male,42,Single,Sales Executive,850000,Nagpur,Maharashtra,2015-03-12,Gold,11
+C00656,Pankaj,Sharma,Male,28,Married,Sales Executive,700000,Kolkata,West Bengal,2024-01-13,Gold,2
+C00657,Rohan,Kumar,Male,56,Married,HR Executive,780000,Hyderabad,Telangana,2019-05-21,Gold,7
+C00658,Amit,Mishra,Male,56,Single,Operations Manager,1520000,Ahmedabad,Gujarat,2024-08-12,Platinum,2
+C00659,Meena,Gupta,Female,24,Single,Sales Executive,520000,Jaipur,Rajasthan,2017-08-29,Silver,9
+C00660,Riya,Jadhav,Female,42,Married,Sales Executive,570000,Kolkata,West Bengal,2021-08-19,Silver,5
+C00661,Vikas,Mehta,Male,58,Single,Teacher,760000,Surat,Gujarat,2016-06-04,Gold,10
+C00662,Sonal,Deshmukh,Female,27,Married,HR Executive,570000,Chennai,Tamil Nadu,2024-06-15,Silver,2
+C00663,Neha,Saxena,Female,29,Married,Teacher,370000,Gurugram,Haryana,2023-02-17,Silver,3
+C00664,Kunal,Sharma,Male,24,Married,Financial Analyst,610000,Mysuru,Karnataka,2021-04-22,Silver,5
+C00665,Anil,Kapoor,Male,49,Single,Architect,1360000,Thane,Maharashtra,2015-04-10,Platinum,11
+C00666,Vikram,Verma,Male,62,Married,Consultant,1420000,Gurugram,Haryana,2022-02-10,Platinum,4
+C00667,Sandeep,Shah,Male,43,Single,Chartered Accountant,1660000,Gurugram,Haryana,2020-02-29,Platinum,6
+C00668,Vijay,Saxena,Male,22,Married,Consultant,1200000,Vadodara,Gujarat,2020-11-26,Platinum,6
+C00669,Karan,Joshi,Male,61,Married,Consultant,1760000,Coimbatore,Tamil Nadu,2023-06-20,Platinum,3
+C00670,Vijay,Gowda,Male,65,Married,Graphic Designer,780000,Hyderabad,Telangana,2019-08-25,Gold,7
+C00671,Kunal,Chawla,Male,45,Single,Civil Engineer,830000,Mumbai,Maharashtra,2019-10-06,Gold,7
+C00672,Swati,Reddy,Female,60,Married,Civil Engineer,1200000,Vadodara,Gujarat,2015-04-26,Platinum,11
+C00673,Pankaj,Pawar,Male,38,Single,Consultant,1720000,Chennai,Tamil Nadu,2020-02-29,Platinum,6
+C00674,Jyoti,Saxena,Female,37,Married,Data Scientist,1640000,Gurugram,Haryana,2023-12-02,Platinum,3
+C00675,Sunil,Singh,Male,65,Married,Architect,1370000,Chennai,Tamil Nadu,2018-07-10,Platinum,8
+C00676,Deepika,Malhotra,Female,64,Married,Doctor,2130000,Chennai,Tamil Nadu,2017-12-18,Platinum,9
+C00677,Karan,Mehta,Male,65,Single,Civil Engineer,1180000,Gurugram,Haryana,2017-01-02,Gold,9
+C00678,Suresh,Patel,Male,40,Married,HR Executive,810000,Coimbatore,Tamil Nadu,2018-08-02,Gold,8
+C00679,Nisha,Singh,Female,28,Single,Marketing Manager,1230000,Kolkata,West Bengal,2015-08-06,Platinum,11
+C00680,Isha,Rao,Female,26,Married,Financial Analyst,1030000,Surat,Gujarat,2015-07-14,Gold,11
+C00681,Sunita,Bhat,Female,24,Married,Architect,780000,Noida,Uttar Pradesh,2015-08-14,Gold,11
+C00682,Abhishek,Agarwal,Male,45,Married,Financial Analyst,1320000,Chennai,Tamil Nadu,2015-03-15,Platinum,11
+C00683,Sachin,Bhat,Male,31,Married,HR Executive,560000,Noida,Uttar Pradesh,2021-12-16,Silver,5
+C00684,Kriti,Malhotra,Female,47,Married,Civil Engineer,960000,Noida,Uttar Pradesh,2017-08-04,Gold,9
+C00685,Kriti,Singh,Female,64,Single,Civil Engineer,1130000,Mumbai,Maharashtra,2021-05-09,Gold,5
+C00686,Sneha,Verma,Female,62,Single,Architect,1150000,Noida,Uttar Pradesh,2018-08-27,Gold,8
+C00687,Monika,Mishra,Female,41,Married,Marketing Manager,1250000,Hyderabad,Telangana,2018-06-17,Platinum,8
+C00688,Varun,Patel,Male,47,Single,Civil Engineer,680000,Bengaluru,Karnataka,2018-02-04,Silver,8
+C00689,Nisha,Kulkarni,Female,63,Married,Civil Engineer,1160000,Mysuru,Karnataka,2018-01-31,Gold,8
+C00690,Anil,Gowda,Male,35,Married,Doctor,1830000,Delhi,Delhi,2016-12-05,Platinum,10
+C00691,Sandeep,Sharma,Male,32,Married,Civil Engineer,700000,Gurugram,Haryana,2020-12-26,Gold,6
+C00692,Arjun,Deshmukh,Male,42,Married,Marketing Manager,990000,Kolkata,West Bengal,2017-11-11,Gold,9
+C00693,Alok,Gupta,Male,53,Single,Operations Manager,1080000,Pune,Maharashtra,2024-05-30,Gold,2
+C00694,Ashish,Gupta,Male,48,Married,Financial Analyst,1430000,Thane,Maharashtra,2022-04-15,Platinum,4
+C00695,Abhishek,Malhotra,Male,42,Married,Consultant,1640000,Chennai,Tamil Nadu,2021-03-03,Platinum,5
+C00696,Shweta,Patel,Female,44,Married,Operations Manager,1520000,Coimbatore,Tamil Nadu,2018-05-21,Platinum,8
+C00697,Alok,Trivedi,Male,41,Single,HR Executive,640000,Coimbatore,Tamil Nadu,2021-05-19,Silver,5
+C00698,Rashmi,Saxena,Female,64,Married,Teacher,740000,Coimbatore,Tamil Nadu,2020-07-06,Gold,6
+C00699,Sunil,Sharma,Male,56,Single,Consultant,2300000,Gurugram,Haryana,2024-07-16,Platinum,2
+C00700,Manoj,Sharma,Male,26,Single,Operations Manager,1010000,Pune,Maharashtra,2017-05-13,Gold,9
+C00701,Sneha,Trivedi,Female,33,Married,Doctor,1970000,Pune,Maharashtra,2020-08-28,Platinum,6
+C00702,Vikas,Singh,Male,59,Single,Graphic Designer,790000,Gurugram,Haryana,2019-07-16,Gold,7
+C00703,Ajay,Agarwal,Male,40,Single,Civil Engineer,810000,Hyderabad,Telangana,2022-01-04,Gold,4
+C00704,Manish,Kulkarni,Male,29,Married,Chartered Accountant,1340000,Mysuru,Karnataka,2016-03-18,Platinum,10
+C00705,Ajay,Trivedi,Male,47,Single,Marketing Manager,1550000,Coimbatore,Tamil Nadu,2020-08-10,Platinum,6
+C00706,Sonal,Shah,Female,60,Married,Architect,1190000,Gurugram,Haryana,2023-09-09,Gold,3
+C00707,Karan,Saxena,Male,44,Married,Data Scientist,1780000,Pune,Maharashtra,2021-07-06,Platinum,5
+C00708,Shweta,Joshi,Female,56,Single,Business,2410000,Thane,Maharashtra,2018-10-30,Platinum,8
+C00709,Vikas,Pillai,Male,62,Single,Financial Analyst,1450000,Chennai,Tamil Nadu,2024-10-11,Platinum,2
+C00710,Sunita,Rao,Female,31,Married,Business,1370000,Coimbatore,Tamil Nadu,2024-06-14,Platinum,2
+C00711,Sunita,Agarwal,Female,54,Married,Consultant,1520000,Nagpur,Maharashtra,2017-04-05,Platinum,9
+C00712,Jyoti,Pandey,Female,35,Single,Marketing Manager,890000,Vadodara,Gujarat,2016-12-31,Gold,10
+C00713,Karan,Chawla,Male,40,Single,Chartered Accountant,1330000,Kolkata,West Bengal,2018-09-21,Platinum,8
+C00714,Prashant,Mehta,Male,35,Single,Sales Executive,560000,Delhi,Delhi,2018-07-11,Silver,8
+C00715,Rohan,Deshmukh,Male,58,Single,Doctor,2330000,Hyderabad,Telangana,2024-10-23,Platinum,2
+C00716,Bhavna,Deshmukh,Female,58,Married,Business,2330000,Vadodara,Gujarat,2017-04-02,Platinum,9
+C00717,Bhavna,Mehta,Female,34,Married,Architect,1080000,Coimbatore,Tamil Nadu,2021-12-31,Gold,5
+C00718,Preeti,Verma,Female,24,Single,Graphic Designer,610000,Nagpur,Maharashtra,2022-06-03,Silver,4
+C00719,Kunal,Pandey,Male,64,Single,Teacher,610000,Noida,Uttar Pradesh,2016-12-16,Silver,10
+C00720,Preeti,Agarwal,Female,24,Married,Consultant,1100000,Jaipur,Rajasthan,2018-04-17,Gold,8
+C00721,Meena,Pawar,Female,22,Married,Software Engineer,1060000,Ahmedabad,Gujarat,2016-09-01,Gold,10
+C00722,Sachin,Verma,Male,21,Single,Architect,890000,Pune,Maharashtra,2020-11-14,Gold,6
+C00723,Aditya,Singh,Male,59,Single,Civil Engineer,1030000,Noida,Uttar Pradesh,2021-07-19,Gold,5
+C00724,Jyoti,Pawar,Female,48,Married,Graphic Designer,660000,Noida,Uttar Pradesh,2020-11-18,Silver,6
+C00725,Sunita,Jadhav,Female,58,Married,Graphic Designer,730000,Kolkata,West Bengal,2021-03-08,Gold,5
+C00726,Meena,Trivedi,Female,22,Married,Software Engineer,1000000,Mysuru,Karnataka,2021-02-17,Gold,5
+C00727,Abhishek,Bansal,Male,28,Married,Marketing Manager,1090000,Coimbatore,Tamil Nadu,2020-11-22,Gold,6
+C00728,Richa,Mehta,Female,38,Married,Graphic Designer,560000,Jaipur,Rajasthan,2015-08-30,Silver,11
+C00729,Sachin,Reddy,Male,39,Married,Operations Manager,1200000,Mumbai,Maharashtra,2015-01-03,Platinum,11
+C00730,Gaurav,Singh,Male,23,Single,Sales Executive,560000,Thane,Maharashtra,2019-05-10,Silver,7
+C00731,Nitin,Trivedi,Male,63,Married,Software Engineer,1510000,Jaipur,Rajasthan,2019-02-07,Platinum,7
+C00732,Aarti,Shetty,Female,29,Single,Marketing Manager,1250000,Surat,Gujarat,2021-11-01,Platinum,5
+C00733,Neha,Agarwal,Female,49,Single,Sales Executive,730000,Mumbai,Maharashtra,2018-09-26,Gold,8
+C00734,Pooja,Kapoor,Female,45,Married,Sales Executive,710000,Ahmedabad,Gujarat,2022-04-27,Gold,4
+C00735,Sunil,Bansal,Male,50,Married,Civil Engineer,820000,Vadodara,Gujarat,2022-06-11,Gold,4
+C00736,Sangeeta,Mehta,Female,65,Married,Business,2010000,Chennai,Tamil Nadu,2024-06-18,Platinum,2
+C00737,Kunal,Joshi,Male,52,Single,Doctor,2440000,Mumbai,Maharashtra,2018-06-15,Platinum,8
+C00738,Swati,Bhat,Female,53,Married,Software Engineer,1320000,Surat,Gujarat,2021-06-23,Platinum,5
+C00739,Abhishek,Mishra,Male,31,Single,Consultant,1010000,Mumbai,Maharashtra,2016-03-14,Gold,10
+C00740,Sanjay,Kapoor,Male,58,Married,Doctor,1860000,Pune,Maharashtra,2020-03-09,Platinum,6
+C00741,Vikram,Gowda,Male,51,Married,Business,2160000,Ahmedabad,Gujarat,2019-09-20,Platinum,7
+C00742,Arjun,Mehta,Male,23,Single,Architect,890000,Gurugram,Haryana,2023-01-24,Gold,3
+C00743,Jyoti,Agarwal,Female,32,Single,HR Executive,920000,Surat,Gujarat,2020-01-15,Gold,6
+C00744,Deepak,Pawar,Male,47,Single,Chartered Accountant,1540000,Kolkata,West Bengal,2017-09-28,Platinum,9
+C00745,Rohan,Rao,Male,33,Married,Sales Executive,620000,Surat,Gujarat,2017-07-04,Silver,9
+C00746,Isha,Agarwal,Female,28,Single,Business,1140000,Bengaluru,Karnataka,2021-06-21,Gold,5
+C00747,Manoj,Chawla,Male,41,Married,Architect,1110000,Mumbai,Maharashtra,2020-09-29,Gold,6
+C00748,Aarti,Singh,Female,30,Married,Graphic Designer,420000,Mysuru,Karnataka,2016-04-16,Silver,10
+C00749,Shweta,Rao,Female,37,Married,Teacher,640000,Surat,Gujarat,2015-08-13,Silver,11
+C00750,Riya,Mehta,Female,33,Single,Sales Executive,730000,Coimbatore,Tamil Nadu,2016-08-18,Gold,10
+C00751,Ashish,Verma,Male,57,Married,HR Executive,920000,Chennai,Tamil Nadu,2023-03-29,Gold,3
+C00752,Deepika,Shah,Female,27,Married,HR Executive,570000,Bengaluru,Karnataka,2016-05-21,Silver,10
+C00753,Meena,Malhotra,Female,26,Married,Chartered Accountant,1210000,Noida,Uttar Pradesh,2023-11-02,Platinum,3
+C00754,Sunil,Pillai,Male,54,Single,HR Executive,1000000,Mumbai,Maharashtra,2017-01-17,Gold,9
+C00755,Rohan,Mehta,Male,62,Married,Data Scientist,1920000,Bengaluru,Karnataka,2020-02-19,Platinum,6
+C00756,Jyoti,Singh,Female,49,Single,Data Scientist,2110000,Hyderabad,Telangana,2021-11-08,Platinum,5
+C00757,Bhavna,Jadhav,Female,54,Married,Consultant,1610000,Ahmedabad,Gujarat,2023-09-12,Platinum,3
+C00758,Preeti,Hegde,Female,57,Married,Graphic Designer,690000,Kolkata,West Bengal,2020-05-28,Silver,6
+C00759,Kavita,Agarwal,Female,36,Single,Software Engineer,1440000,Mumbai,Maharashtra,2017-09-17,Platinum,9
+C00760,Nisha,Shah,Female,44,Married,Teacher,700000,Mumbai,Maharashtra,2015-12-30,Gold,11
+C00761,Sachin,Reddy,Male,49,Single,Doctor,2190000,Gurugram,Haryana,2019-08-05,Platinum,7
+C00762,Ajay,Patel,Male,30,Married,Architect,900000,Hyderabad,Telangana,2016-06-22,Gold,10
+C00763,Rahul,Chawla,Male,43,Married,Financial Analyst,1240000,Nagpur,Maharashtra,2020-11-08,Platinum,6
+C00764,Jyoti,Pawar,Female,27,Married,Chartered Accountant,1250000,Chennai,Tamil Nadu,2016-01-17,Platinum,10
+C00765,Varun,Rao,Male,42,Married,Software Engineer,1330000,Mysuru,Karnataka,2023-12-06,Platinum,3
+C00766,Anita,Joshi,Female,37,Married,Data Scientist,1540000,Surat,Gujarat,2024-09-10,Platinum,2
+C00767,Kavita,Kulkarni,Female,56,Single,Financial Analyst,1560000,Thane,Maharashtra,2022-05-29,Platinum,4
+C00768,Isha,Patel,Female,28,Married,Doctor,1540000,Noida,Uttar Pradesh,2017-05-05,Platinum,9
+C00769,Suresh,Pawar,Male,25,Married,Doctor,1240000,Pune,Maharashtra,2022-03-05,Platinum,4
+C00770,Kriti,Reddy,Female,65,Single,Doctor,2430000,Gurugram,Haryana,2016-09-09,Platinum,10
+C00771,Anil,Chawla,Male,34,Single,Consultant,930000,Mysuru,Karnataka,2023-12-21,Gold,3
+C00772,Priya,Trivedi,Female,58,Single,Consultant,1700000,Jaipur,Rajasthan,2017-06-27,Platinum,9
+C00773,Pankaj,Gowda,Male,65,Married,Graphic Designer,850000,Chennai,Tamil Nadu,2017-10-11,Gold,9
+C00774,Alok,Agarwal,Male,53,Married,Consultant,1760000,Nagpur,Maharashtra,2024-04-10,Platinum,2
+C00775,Preeti,Nair,Female,32,Married,Marketing Manager,960000,Jaipur,Rajasthan,2019-01-30,Gold,7
+C00776,Manoj,Saxena,Male,27,Married,Doctor,1560000,Bengaluru,Karnataka,2020-01-16,Platinum,6
+C00777,Sachin,Verma,Male,34,Married,Marketing Manager,1090000,Hyderabad,Telangana,2019-05-13,Gold,7
+C00778,Divya,Sharma,Female,65,Married,Operations Manager,1310000,Pune,Maharashtra,2023-05-20,Platinum,3
+C00779,Shweta,Pawar,Female,40,Married,Financial Analyst,1110000,Surat,Gujarat,2021-12-24,Gold,5
+C00780,Rashmi,Mishra,Female,62,Single,Sales Executive,840000,Mumbai,Maharashtra,2024-06-27,Gold,2
+C00781,Aarti,Rao,Female,61,Single,Sales Executive,850000,Thane,Maharashtra,2021-07-04,Gold,5
+C00782,Anjali,Bansal,Female,39,Married,Graphic Designer,700000,Ahmedabad,Gujarat,2015-02-18,Gold,11
+C00783,Aditya,Hegde,Male,34,Single,Teacher,700000,Coimbatore,Tamil Nadu,2023-10-19,Gold,3
+C00784,Manoj,Kapoor,Male,50,Single,Business,2180000,Kolkata,West Bengal,2015-03-04,Platinum,11
+C00785,Deepak,Verma,Male,56,Married,Sales Executive,670000,Jaipur,Rajasthan,2019-04-06,Silver,7
+C00786,Simran,Mehta,Female,46,Married,Marketing Manager,1100000,Coimbatore,Tamil Nadu,2016-03-07,Gold,10
+C00787,Neha,Verma,Female,25,Married,Consultant,1030000,Hyderabad,Telangana,2017-10-04,Gold,9
+C00788,Kunal,Malhotra,Male,39,Single,Operations Manager,1030000,Hyderabad,Telangana,2015-09-24,Gold,11
+C00789,Varun,Pillai,Male,52,Married,Graphic Designer,840000,Jaipur,Rajasthan,2021-07-16,Gold,5
+C00790,Simran,Malhotra,Female,36,Married,Data Scientist,1490000,Mumbai,Maharashtra,2019-03-16,Platinum,7
+C00791,Vikram,Pandey,Male,46,Married,HR Executive,750000,Pune,Maharashtra,2022-01-28,Gold,4
+C00792,Richa,Kapoor,Female,24,Married,Civil Engineer,900000,Jaipur,Rajasthan,2015-11-15,Gold,11
+C00793,Sachin,Pawar,Male,43,Single,Software Engineer,1170000,Pune,Maharashtra,2024-08-31,Gold,2
+C00794,Shweta,Kulkarni,Female,46,Married,Data Scientist,1810000,Kolkata,West Bengal,2018-02-05,Platinum,8
+C00795,Amit,Malhotra,Male,38,Married,Software Engineer,970000,Thane,Maharashtra,2015-01-05,Gold,11
+C00796,Swati,Shah,Female,42,Single,Financial Analyst,1250000,Mumbai,Maharashtra,2021-04-23,Platinum,5
+C00797,Sneha,Nair,Female,21,Married,Architect,720000,Noida,Uttar Pradesh,2018-04-30,Gold,8
+C00798,Deepika,Deshmukh,Female,42,Single,Data Scientist,1720000,Kolkata,West Bengal,2022-04-30,Platinum,4
+C00799,Divya,Bhat,Female,33,Married,Teacher,490000,Coimbatore,Tamil Nadu,2015-12-23,Silver,11
+C00800,Jyoti,Mishra,Female,49,Married,Civil Engineer,700000,Gurugram,Haryana,2023-10-05,Gold,3
+C00801,Poonam,Mishra,Female,53,Married,Teacher,560000,Jaipur,Rajasthan,2018-02-11,Silver,8
+C00802,Rohan,Joshi,Male,38,Single,Graphic Designer,600000,Ahmedabad,Gujarat,2024-12-23,Silver,2
+C00803,Isha,Verma,Female,65,Single,Teacher,870000,Pune,Maharashtra,2019-03-18,Gold,7
+C00804,Rashmi,Jadhav,Female,61,Married,Doctor,2460000,Gurugram,Haryana,2015-02-26,Platinum,11
+C00805,Ajay,Bansal,Male,21,Married,Software Engineer,1020000,Surat,Gujarat,2015-01-03,Gold,11
+C00806,Kavita,Malhotra,Female,34,Married,Architect,710000,Kolkata,West Bengal,2016-09-23,Gold,10
+C00807,Sunita,Agarwal,Female,49,Married,Consultant,1190000,Mumbai,Maharashtra,2022-05-31,Gold,4
+C00808,Meena,Shetty,Female,35,Married,Sales Executive,370000,Jaipur,Rajasthan,2018-02-03,Silver,8
+C00809,Rahul,Gowda,Male,30,Married,Financial Analyst,1230000,Mysuru,Karnataka,2018-07-04,Platinum,8
+C00810,Pankaj,Shah,Male,56,Married,Business,2220000,Jaipur,Rajasthan,2023-04-12,Platinum,3
+C00811,Kavita,Chawla,Female,50,Single,Sales Executive,600000,Jaipur,Rajasthan,2021-12-06,Silver,5
+C00812,Rashmi,Saxena,Female,51,Single,Operations Manager,1190000,Noida,Uttar Pradesh,2015-03-08,Gold,11
+C00813,Rajesh,Singh,Male,52,Single,Business,1940000,Thane,Maharashtra,2019-01-20,Platinum,7
+C00814,Anjali,Mehta,Female,42,Married,Teacher,640000,Pune,Maharashtra,2022-04-12,Silver,4
+C00815,Kavita,Shetty,Female,39,Married,Graphic Designer,750000,Gurugram,Haryana,2019-06-05,Gold,7
+C00816,Rahul,Pandey,Male,47,Single,Civil Engineer,1090000,Vadodara,Gujarat,2023-08-08,Gold,3
+C00817,Priya,Bansal,Female,30,Single,HR Executive,560000,Thane,Maharashtra,2015-01-30,Silver,11
+C00818,Karan,Chawla,Male,28,Married,Architect,700000,Jaipur,Rajasthan,2024-11-11,Gold,2
+C00819,Manish,Kumar,Male,56,Single,Graphic Designer,610000,Ahmedabad,Gujarat,2016-03-01,Silver,10
+C00820,Karan,Bhat,Male,33,Single,HR Executive,700000,Noida,Uttar Pradesh,2019-09-24,Gold,7
+C00821,Monika,Saxena,Female,43,Married,Civil Engineer,1130000,Jaipur,Rajasthan,2020-06-13,Gold,6
+C00822,Pankaj,Shah,Male,58,Single,Graphic Designer,890000,Mumbai,Maharashtra,2023-08-13,Gold,3
+C00823,Anil,Trivedi,Male,58,Married,Chartered Accountant,1140000,Thane,Maharashtra,2024-12-12,Gold,2
+C00824,Deepak,Sharma,Male,60,Married,Architect,920000,Gurugram,Haryana,2019-11-13,Gold,7
+C00825,Poonam,Kumar,Female,52,Married,Data Scientist,2200000,Chennai,Tamil Nadu,2022-06-22,Platinum,4
+C00826,Shweta,Kulkarni,Female,63,Married,Teacher,660000,Delhi,Delhi,2015-06-19,Silver,11
+C00827,Vijay,Sharma,Male,65,Married,Operations Manager,1300000,Chennai,Tamil Nadu,2016-12-18,Platinum,10
+C00828,Pankaj,Sharma,Male,39,Single,Consultant,1140000,Ahmedabad,Gujarat,2016-06-20,Gold,10
+C00829,Sunita,Jadhav,Female,25,Single,Chartered Accountant,1440000,Mumbai,Maharashtra,2015-11-20,Platinum,11
+C00830,Varun,Kulkarni,Male,23,Single,Data Scientist,1200000,Noida,Uttar Pradesh,2019-03-12,Platinum,7
+C00831,Prashant,Pawar,Male,49,Married,Sales Executive,670000,Jaipur,Rajasthan,2015-10-11,Silver,11
+C00832,Suresh,Gupta,Male,30,Single,Sales Executive,570000,Bengaluru,Karnataka,2017-07-10,Silver,9
+C00833,Alok,Deshmukh,Male,33,Single,HR Executive,780000,Mumbai,Maharashtra,2021-09-21,Gold,5
+C00834,Varun,Mishra,Male,28,Married,Business,1780000,Coimbatore,Tamil Nadu,2023-12-11,Platinum,3
+C00835,Aditya,Pandey,Male,40,Married,HR Executive,810000,Thane,Maharashtra,2017-11-22,Gold,9
+C00836,Prashant,Kulkarni,Male,59,Married,Teacher,730000,Mumbai,Maharashtra,2020-08-31,Gold,6
+C00837,Shweta,Agarwal,Female,56,Married,Marketing Manager,1440000,Surat,Gujarat,2018-03-17,Platinum,8
+C00838,Sandeep,Gupta,Male,45,Married,Architect,1060000,Surat,Gujarat,2022-02-26,Gold,4
+C00839,Bhavna,Kumar,Female,38,Single,Consultant,1310000,Jaipur,Rajasthan,2023-09-04,Platinum,3
+C00840,Kriti,Deshmukh,Female,46,Single,Software Engineer,1440000,Mysuru,Karnataka,2016-10-06,Platinum,10
+C00841,Rahul,Trivedi,Male,23,Single,Doctor,1260000,Nagpur,Maharashtra,2024-05-31,Platinum,2
+C00842,Anita,Verma,Female,44,Married,Financial Analyst,1350000,Delhi,Delhi,2023-04-15,Platinum,3
+C00843,Vikas,Kulkarni,Male,54,Married,Chartered Accountant,1660000,Coimbatore,Tamil Nadu,2016-07-16,Platinum,10
+C00844,Rashmi,Sharma,Female,34,Single,Sales Executive,630000,Ahmedabad,Gujarat,2022-03-10,Silver,4
+C00845,Rohan,Bansal,Male,58,Single,HR Executive,970000,Pune,Maharashtra,2023-01-09,Gold,3
+C00846,Manish,Nair,Male,63,Married,Teacher,700000,Pune,Maharashtra,2022-02-27,Gold,4
+C00847,Aditya,Reddy,Male,25,Single,Business,1570000,Mumbai,Maharashtra,2020-01-26,Platinum,6
+C00848,Anita,Pandey,Female,60,Married,Doctor,2780000,Pune,Maharashtra,2021-12-17,Platinum,5
+C00849,Arjun,Deshmukh,Male,39,Married,Doctor,1920000,Gurugram,Haryana,2020-04-24,Platinum,6
+C00850,Simran,Reddy,Female,46,Married,Teacher,620000,Vadodara,Gujarat,2017-05-03,Silver,9
+C00851,Rahul,Malhotra,Male,22,Married,Chartered Accountant,1330000,Mysuru,Karnataka,2020-04-25,Platinum,6
+C00852,Aarti,Rao,Female,53,Married,Graphic Designer,780000,Thane,Maharashtra,2023-12-28,Gold,3
+C00853,Dinesh,Mishra,Male,36,Single,Teacher,550000,Surat,Gujarat,2015-09-13,Silver,11
+C00854,Neha,Joshi,Female,39,Single,Architect,1110000,Delhi,Delhi,2017-06-30,Gold,9
+C00855,Prashant,Singh,Male,34,Married,Data Scientist,1300000,Gurugram,Haryana,2018-03-01,Platinum,8
+C00856,Ashish,Chawla,Male,25,Single,Financial Analyst,1000000,Surat,Gujarat,2021-05-19,Gold,5
+C00857,Sandeep,Nair,Male,56,Married,Software Engineer,1450000,Coimbatore,Tamil Nadu,2017-12-20,Platinum,9
+C00858,Sanjay,Singh,Male,38,Married,Business,1630000,Chennai,Tamil Nadu,2015-11-01,Platinum,11
+C00859,Isha,Malhotra,Female,45,Married,Financial Analyst,1140000,Coimbatore,Tamil Nadu,2016-10-05,Gold,10
+C00860,Sachin,Malhotra,Male,21,Single,Business,1350000,Ahmedabad,Gujarat,2018-06-20,Platinum,8
+C00861,Priya,Verma,Female,29,Single,Sales Executive,590000,Ahmedabad,Gujarat,2017-04-21,Silver,9
+C00862,Sanjay,Joshi,Male,32,Married,Financial Analyst,830000,Kolkata,West Bengal,2023-10-01,Gold,3
+C00863,Anita,Trivedi,Female,45,Married,HR Executive,710000,Mumbai,Maharashtra,2024-04-25,Gold,2
+C00864,Rohan,Deshmukh,Male,54,Married,Architect,920000,Mysuru,Karnataka,2019-08-31,Gold,7
+C00865,Pankaj,Singh,Male,30,Single,Operations Manager,1030000,Bengaluru,Karnataka,2018-12-30,Gold,8
+C00866,Pooja,Verma,Female,48,Married,Graphic Designer,680000,Coimbatore,Tamil Nadu,2015-07-03,Silver,11
+C00867,Anil,Trivedi,Male,42,Married,Business,1840000,Bengaluru,Karnataka,2022-07-14,Platinum,4
+C00868,Kunal,Pillai,Male,32,Single,Teacher,610000,Coimbatore,Tamil Nadu,2023-07-27,Silver,3
+C00869,Sonal,Joshi,Female,40,Married,Financial Analyst,940000,Thane,Maharashtra,2019-08-28,Gold,7
+C00870,Swati,Chawla,Female,56,Married,Financial Analyst,1420000,Delhi,Delhi,2023-02-21,Platinum,3
+C00871,Sachin,Shah,Male,47,Single,Operations Manager,1170000,Pune,Maharashtra,2017-09-27,Gold,9
+C00872,Anil,Saxena,Male,31,Single,Doctor,1990000,Mumbai,Maharashtra,2020-04-17,Platinum,6
+C00873,Preeti,Pandey,Female,65,Single,Civil Engineer,1130000,Delhi,Delhi,2024-07-20,Gold,2
+C00874,Nitin,Joshi,Male,30,Single,Teacher,470000,Noida,Uttar Pradesh,2020-08-07,Silver,6
+C00875,Sunil,Bhat,Male,26,Married,Teacher,510000,Mumbai,Maharashtra,2019-10-23,Silver,7
+C00876,Rahul,Singh,Male,25,Married,Civil Engineer,700000,Hyderabad,Telangana,2016-08-26,Gold,10
+C00877,Pooja,Gowda,Female,22,Married,Business,1570000,Surat,Gujarat,2021-02-02,Platinum,5
+C00878,Anita,Shetty,Female,21,Single,Financial Analyst,830000,Kolkata,West Bengal,2021-03-30,Gold,5
+C00879,Pankaj,Saxena,Male,30,Married,Consultant,860000,Delhi,Delhi,2015-12-26,Gold,11
+C00880,Aditya,Kumar,Male,64,Married,Data Scientist,1710000,Noida,Uttar Pradesh,2021-12-06,Platinum,5
+C00881,Anil,Shah,Male,42,Single,Civil Engineer,880000,Ahmedabad,Gujarat,2020-03-25,Gold,6
+C00882,Poonam,Reddy,Female,52,Married,Marketing Manager,1400000,Vadodara,Gujarat,2017-09-16,Platinum,9
+C00883,Rajesh,Mehta,Male,26,Married,Data Scientist,1040000,Noida,Uttar Pradesh,2016-03-11,Gold,10
+C00884,Prashant,Pillai,Male,37,Married,Architect,1110000,Surat,Gujarat,2023-05-13,Gold,3
+C00885,Anita,Pandey,Female,23,Married,Chartered Accountant,1420000,Coimbatore,Tamil Nadu,2016-06-21,Platinum,10
+C00886,Vikas,Gowda,Male,63,Married,Chartered Accountant,2180000,Delhi,Delhi,2020-08-26,Platinum,6
+C00887,Sonal,Joshi,Female,52,Single,Financial Analyst,1430000,Gurugram,Haryana,2022-05-05,Platinum,4
+C00888,Sachin,Hegde,Male,55,Single,Financial Analyst,940000,Nagpur,Maharashtra,2015-03-24,Gold,11
+C00889,Vikram,Chawla,Male,34,Married,Software Engineer,1210000,Delhi,Delhi,2023-04-08,Platinum,3
+C00890,Karan,Agarwal,Male,52,Married,Architect,1210000,Nagpur,Maharashtra,2023-09-10,Platinum,3
+C00891,Aarti,Nair,Female,40,Single,Software Engineer,1230000,Jaipur,Rajasthan,2017-02-17,Platinum,9
+C00892,Meena,Joshi,Female,44,Married,Civil Engineer,1240000,Bengaluru,Karnataka,2021-08-13,Platinum,5
+C00893,Shweta,Shah,Female,45,Married,Software Engineer,1110000,Hyderabad,Telangana,2020-07-24,Gold,6
+C00894,Amit,Kumar,Male,48,Married,Graphic Designer,670000,Nagpur,Maharashtra,2015-05-20,Silver,11
+C00895,Kavita,Singh,Female,23,Married,Business,1480000,Gurugram,Haryana,2015-05-18,Platinum,11
+C00896,Arjun,Patel,Male,61,Single,Chartered Accountant,1440000,Chennai,Tamil Nadu,2016-10-01,Platinum,10
+C00897,Ashish,Reddy,Male,48,Married,Consultant,1580000,Kolkata,West Bengal,2023-01-21,Platinum,3
+C00898,Poonam,Bansal,Female,41,Married,Financial Analyst,1060000,Mysuru,Karnataka,2015-12-11,Gold,11
+C00899,Aditya,Pawar,Male,26,Married,HR Executive,600000,Noida,Uttar Pradesh,2019-01-01,Silver,7
+C00900,Vijay,Gupta,Male,56,Married,Doctor,2210000,Noida,Uttar Pradesh,2015-07-23,Platinum,11
+C00901,Nitin,Shah,Male,29,Single,Architect,920000,Coimbatore,Tamil Nadu,2023-06-10,Gold,3
+C00902,Arjun,Deshmukh,Male,43,Married,Graphic Designer,700000,Jaipur,Rajasthan,2016-02-03,Gold,10
+C00903,Rahul,Shah,Male,51,Single,Business,1520000,Vadodara,Gujarat,2016-06-28,Platinum,10
+C00904,Simran,Mishra,Female,61,Married,Sales Executive,850000,Noida,Uttar Pradesh,2024-02-07,Gold,2
+C00905,Anil,Agarwal,Male,44,Single,Chartered Accountant,1470000,Coimbatore,Tamil Nadu,2022-08-29,Platinum,4
+C00906,Pooja,Sharma,Female,37,Married,Graphic Designer,430000,Kolkata,West Bengal,2020-03-11,Silver,6
+C00907,Sonal,Nair,Female,46,Married,HR Executive,760000,Hyderabad,Telangana,2021-05-04,Gold,5
+C00908,Manish,Bhat,Male,61,Single,Sales Executive,650000,Nagpur,Maharashtra,2020-03-01,Silver,6
+C00909,Anil,Gowda,Male,54,Married,HR Executive,970000,Pune,Maharashtra,2018-01-25,Gold,8
+C00910,Pankaj,Chawla,Male,25,Married,Doctor,1470000,Mumbai,Maharashtra,2016-01-06,Platinum,10
+C00911,Aarti,Pillai,Female,22,Married,Doctor,1330000,Coimbatore,Tamil Nadu,2019-01-19,Platinum,7
+C00912,Amit,Pillai,Male,42,Married,Doctor,2050000,Mysuru,Karnataka,2022-08-06,Platinum,4
+C00913,Shweta,Saxena,Female,25,Married,Consultant,930000,Mumbai,Maharashtra,2017-01-11,Gold,9
+C00914,Amit,Jadhav,Male,46,Single,Graphic Designer,510000,Jaipur,Rajasthan,2022-05-05,Silver,4
+C00915,Meena,Pillai,Female,41,Married,Business,2830000,Hyderabad,Telangana,2023-04-08,Platinum,3
+C00916,Rahul,Patel,Male,22,Married,Financial Analyst,820000,Kolkata,West Bengal,2015-01-06,Gold,11
+C00917,Dinesh,Mishra,Male,55,Single,Marketing Manager,1180000,Vadodara,Gujarat,2017-04-21,Gold,9
+C00918,Sangeeta,Singh,Female,41,Married,Architect,920000,Nagpur,Maharashtra,2017-06-15,Gold,9
+C00919,Pooja,Verma,Female,35,Married,HR Executive,660000,Delhi,Delhi,2018-12-04,Silver,8
+C00920,Ajay,Patel,Male,34,Single,Financial Analyst,1400000,Ahmedabad,Gujarat,2015-09-11,Platinum,11
+C00921,Sunita,Kulkarni,Female,46,Married,Architect,1280000,Kolkata,West Bengal,2021-06-06,Platinum,5
+C00922,Rohan,Kumar,Male,28,Single,Operations Manager,1060000,Noida,Uttar Pradesh,2018-05-31,Gold,8
+C00923,Divya,Pillai,Female,65,Married,HR Executive,1010000,Mysuru,Karnataka,2018-05-20,Gold,8
+C00924,Shweta,Bhat,Female,36,Married,HR Executive,830000,Kolkata,West Bengal,2019-09-10,Gold,7
+C00925,Deepak,Bhat,Male,58,Married,Architect,1080000,Gurugram,Haryana,2016-01-30,Gold,10
+C00926,Pankaj,Saxena,Male,42,Married,Teacher,530000,Vadodara,Gujarat,2022-08-19,Silver,4
+C00927,Abhishek,Shetty,Male,43,Single,Marketing Manager,1100000,Kolkata,West Bengal,2018-12-09,Gold,8
+C00928,Pooja,Pandey,Female,28,Single,Chartered Accountant,1290000,Surat,Gujarat,2024-05-06,Platinum,2
+C00929,Monika,Mehta,Female,27,Married,Sales Executive,580000,Bengaluru,Karnataka,2020-12-28,Silver,6
+C00930,Aditya,Deshmukh,Male,48,Married,Teacher,530000,Ahmedabad,Gujarat,2024-11-16,Silver,2
+C00931,Nitin,Pillai,Male,46,Married,Consultant,1190000,Ahmedabad,Gujarat,2018-03-21,Gold,8
+C00932,Tanya,Singh,Female,42,Married,Architect,1170000,Jaipur,Rajasthan,2020-09-13,Gold,6
+C00933,Ritu,Malhotra,Female,48,Single,Sales Executive,690000,Coimbatore,Tamil Nadu,2022-07-20,Silver,4
+C00934,Poonam,Kapoor,Female,46,Married,Software Engineer,1330000,Gurugram,Haryana,2017-04-03,Platinum,9
+C00935,Vikas,Singh,Male,56,Married,Civil Engineer,820000,Delhi,Delhi,2017-09-30,Gold,9
+C00936,Suresh,Jadhav,Male,55,Single,Doctor,2080000,Delhi,Delhi,2023-11-17,Platinum,3
+C00937,Manoj,Mehta,Male,29,Single,Teacher,560000,Thane,Maharashtra,2018-09-03,Silver,8
+C00938,Simran,Mishra,Female,32,Married,Consultant,1030000,Bengaluru,Karnataka,2017-09-24,Gold,9
+C00939,Karan,Singh,Male,33,Married,Business,1400000,Vadodara,Gujarat,2016-07-07,Platinum,10
+C00940,Nisha,Hegde,Female,38,Married,Chartered Accountant,1580000,Jaipur,Rajasthan,2019-07-11,Platinum,7
+C00941,Gaurav,Reddy,Male,55,Married,Software Engineer,1450000,Gurugram,Haryana,2022-11-26,Platinum,4
+C00942,Anita,Saxena,Female,22,Married,Operations Manager,970000,Ahmedabad,Gujarat,2019-02-02,Gold,7
+C00943,Tanya,Bhat,Female,23,Married,Graphic Designer,400000,Surat,Gujarat,2019-08-25,Silver,7
+C00944,Neha,Mehta,Female,57,Single,Chartered Accountant,1640000,Hyderabad,Telangana,2017-09-25,Platinum,9
+C00945,Ashish,Pawar,Male,58,Married,Software Engineer,1410000,Delhi,Delhi,2022-05-15,Platinum,4
+C00946,Ajay,Gupta,Male,65,Single,Financial Analyst,1900000,Hyderabad,Telangana,2023-10-30,Platinum,3
+C00947,Vikram,Reddy,Male,27,Married,Data Scientist,1410000,Kolkata,West Bengal,2023-03-16,Platinum,3
+C00948,Nisha,Reddy,Female,56,Single,Architect,1100000,Coimbatore,Tamil Nadu,2016-12-24,Gold,10
+C00949,Divya,Trivedi,Female,46,Single,Chartered Accountant,1990000,Thane,Maharashtra,2020-11-17,Platinum,6
+C00950,Swati,Bansal,Female,42,Married,Architect,930000,Bengaluru,Karnataka,2022-04-07,Gold,4
+C00951,Sneha,Verma,Female,38,Single,Software Engineer,1110000,Nagpur,Maharashtra,2016-07-10,Gold,10
+C00952,Neha,Kumar,Female,64,Single,HR Executive,960000,Coimbatore,Tamil Nadu,2020-06-22,Gold,6
+C00953,Manish,Verma,Male,56,Single,Operations Manager,1190000,Kolkata,West Bengal,2021-08-14,Gold,5
+C00954,Sunita,Chawla,Female,46,Married,Sales Executive,650000,Noida,Uttar Pradesh,2023-11-07,Silver,3
+C00955,Anil,Rao,Male,27,Married,Chartered Accountant,1220000,Pune,Maharashtra,2015-10-22,Platinum,11
+C00956,Ashish,Kulkarni,Male,64,Married,Consultant,1240000,Kolkata,West Bengal,2017-08-31,Platinum,9
+C00957,Rahul,Sharma,Male,54,Married,Chartered Accountant,2220000,Mysuru,Karnataka,2023-03-08,Platinum,3
+C00958,Prashant,Shah,Male,46,Married,Operations Manager,1250000,Kolkata,West Bengal,2016-10-06,Platinum,10
+C00959,Gaurav,Shah,Male,29,Single,Data Scientist,1060000,Kolkata,West Bengal,2023-04-22,Gold,3
+C00960,Bhavna,Mehta,Female,60,Single,Graphic Designer,820000,Coimbatore,Tamil Nadu,2024-11-06,Gold,2
+C00961,Dinesh,Bhat,Male,55,Single,Graphic Designer,770000,Mysuru,Karnataka,2017-08-18,Gold,9
+C00962,Nisha,Chawla,Female,65,Single,Civil Engineer,1320000,Surat,Gujarat,2016-02-15,Platinum,10
+C00963,Gaurav,Sharma,Male,57,Single,Sales Executive,700000,Thane,Maharashtra,2020-05-31,Gold,6
+C00964,Deepak,Kumar,Male,33,Single,Software Engineer,1060000,Vadodara,Gujarat,2023-02-18,Gold,3
+C00965,Sachin,Pandey,Male,64,Married,Business,1990000,Chennai,Tamil Nadu,2021-02-05,Platinum,5
+C00966,Pankaj,Chawla,Male,63,Married,Teacher,580000,Jaipur,Rajasthan,2016-04-26,Silver,10
+C00967,Pooja,Reddy,Female,30,Married,Teacher,660000,Vadodara,Gujarat,2015-08-29,Silver,11
+C00968,Sandeep,Malhotra,Male,32,Married,Consultant,1110000,Hyderabad,Telangana,2020-03-08,Gold,6
+C00969,Poonam,Rao,Female,22,Married,Software Engineer,790000,Thane,Maharashtra,2017-11-08,Gold,9
+C00970,Prashant,Gupta,Male,58,Married,Teacher,670000,Nagpur,Maharashtra,2015-04-15,Silver,11
+C00971,Anita,Sharma,Female,37,Married,Data Scientist,1440000,Jaipur,Rajasthan,2017-01-01,Platinum,9
+C00972,Shweta,Saxena,Female,59,Single,Doctor,2160000,Kolkata,West Bengal,2015-05-26,Platinum,11
+C00973,Jyoti,Pandey,Female,26,Married,Chartered Accountant,1320000,Thane,Maharashtra,2023-08-25,Platinum,3
+C00974,Deepak,Agarwal,Male,55,Single,Graphic Designer,950000,Noida,Uttar Pradesh,2018-09-26,Gold,8
+C00975,Dinesh,Kapoor,Male,58,Single,Chartered Accountant,1770000,Hyderabad,Telangana,2023-04-01,Platinum,3
+C00976,Manoj,Agarwal,Male,30,Single,Civil Engineer,780000,Thane,Maharashtra,2017-07-30,Gold,9
+C00977,Divya,Malhotra,Female,35,Married,Architect,930000,Surat,Gujarat,2019-01-17,Gold,7
+C00978,Arjun,Agarwal,Male,55,Single,Civil Engineer,810000,Jaipur,Rajasthan,2015-02-04,Gold,11
+C00979,Vikas,Mishra,Male,45,Married,HR Executive,690000,Hyderabad,Telangana,2018-04-16,Silver,8
+C00980,Ritu,Reddy,Female,47,Single,Consultant,1060000,Kolkata,West Bengal,2016-09-01,Gold,10
+C00981,Alok,Agarwal,Male,38,Married,Civil Engineer,1100000,Kolkata,West Bengal,2023-04-14,Gold,3
+C00982,Aarti,Shah,Female,64,Single,Doctor,2490000,Nagpur,Maharashtra,2015-07-15,Platinum,11
+C00983,Gaurav,Jadhav,Male,25,Single,Civil Engineer,570000,Hyderabad,Telangana,2019-04-25,Silver,7
+C00984,Dinesh,Mehta,Male,60,Single,Doctor,2560000,Coimbatore,Tamil Nadu,2021-04-04,Platinum,5
+C00985,Kriti,Sharma,Female,41,Single,Civil Engineer,790000,Nagpur,Maharashtra,2021-11-06,Gold,5
+C00986,Pankaj,Pillai,Male,49,Married,Business,2220000,Pune,Maharashtra,2023-04-21,Platinum,3
+C00987,Anita,Pandey,Female,31,Married,Chartered Accountant,1410000,Coimbatore,Tamil Nadu,2018-12-06,Platinum,8
+C00988,Kunal,Kulkarni,Male,36,Married,HR Executive,760000,Mumbai,Maharashtra,2018-10-17,Gold,8
+C00989,Sunil,Hegde,Male,42,Married,Data Scientist,1170000,Thane,Maharashtra,2019-07-21,Gold,7
+C00990,Jyoti,Patel,Female,64,Single,Consultant,1800000,Coimbatore,Tamil Nadu,2024-05-03,Platinum,2
+C00991,Pooja,Chawla,Female,54,Married,HR Executive,850000,Nagpur,Maharashtra,2016-01-16,Gold,10
+C00992,Simran,Malhotra,Female,62,Single,Consultant,1890000,Noida,Uttar Pradesh,2021-09-22,Platinum,5
+C00993,Pankaj,Reddy,Male,27,Single,Software Engineer,1280000,Noida,Uttar Pradesh,2024-03-16,Platinum,2
+C00994,Rashmi,Jadhav,Female,41,Single,HR Executive,960000,Jaipur,Rajasthan,2019-09-18,Gold,7
+C00995,Alok,Deshmukh,Male,44,Married,Data Scientist,1260000,Surat,Gujarat,2015-02-23,Platinum,11
+C00996,Abhishek,Jadhav,Male,41,Married,Financial Analyst,1170000,Thane,Maharashtra,2022-12-14,Gold,4
+C00997,Neha,Bhat,Female,56,Married,Architect,1060000,Gurugram,Haryana,2023-02-13,Gold,3
+C00998,Sanjay,Singh,Male,42,Married,Architect,780000,Vadodara,Gujarat,2020-03-14,Gold,6
+C00999,Pooja,Deshmukh,Female,23,Single,Marketing Manager,1040000,Pune,Maharashtra,2024-02-19,Gold,2
+C01000,Sandeep,Saxena,Male,57,Married,Chartered Accountant,2020000,Gurugram,Haryana,2024-04-28,Platinum,2
