@@ -35,5 +35,4 @@ if __name__ == "__main__":
     for table_name, df in data.items():
         print(
             f"{table_name}: "
-            f"{len(df):,} rows × {len(df.columns)} columns"
-        )
+            f"{len(df):,} rows × {len(df.columns)} columns")

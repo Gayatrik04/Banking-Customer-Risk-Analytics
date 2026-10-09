@@ -1,0 +1,32 @@
+Feature,Importance
+num__credit_score,0.31765494799279487
+num__interest_rate,0.1544354498695528
+num__emi,0.10783703593748065
+num__annual_income,0.09840625243502513
+num__age,0.08743949233319225
+num__loan_amount,0.08345954587335107
+cat__customer_segment_Gold,0.007994279401546575
+cat__marital_status_Married,0.007838239134424616
+cat__marital_status_Single,0.007736342169633018
+cat__occupation_Software Engineer,0.007449960288336778
+cat__loan_type_Car Loan,0.0068842676341580875
+cat__loan_type_Personal Loan,0.006565565811367884
+cat__occupation_Architect,0.006446399303638204
+cat__customer_segment_Platinum,0.006328585701423137
+cat__occupation_HR Executive,0.006249164952869284
+cat__occupation_Operations Manager,0.00619561842307772
+cat__occupation_Financial Analyst,0.006142963980923607
+cat__loan_type_Home Loan,0.005938844808965265
+cat__occupation_Consultant,0.005929175519962147
+cat__occupation_Chartered Accountant,0.005927320442434445
+cat__occupation_Marketing Manager,0.00589993104669509
+cat__occupation_Data Scientist,0.005734453492918108
+cat__occupation_Civil Engineer,0.005577415511359011
+cat__occupation_Graphic Designer,0.005474533135148415
+cat__occupation_Business,0.005453209501600513
+cat__loan_type_Education Loan,0.005368722226106277
+cat__occupation_Sales Executive,0.005055597560176311
+cat__occupation_Doctor,0.004883171022602773
+cat__customer_segment_Silver,0.004696005581809195
+cat__occupation_Teacher,0.004650201119560309
+cat__loan_type_Business Loan,0.004347307787866534

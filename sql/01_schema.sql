@@ -79,3 +79,17 @@ CREATE INDEX idx_transactions_customer ON transactions(customer_id);
 CREATE INDEX idx_transactions_account ON transactions(account_id);
 CREATE INDEX idx_transactions_date ON transactions(date);
 CREATE INDEX idx_loans_default ON loans(default_flag);
+
+
+USE banking_customer_risk_analytics;
+
+SELECT 'customers' AS table_name, COUNT(*) AS total_rows FROM customers
+UNION ALL
+SELECT 'branches', COUNT(*) FROM branches
+UNION ALL
+SELECT 'accounts', COUNT(*) FROM accounts
+UNION ALL
+SELECT 'loans', COUNT(*) FROM loans
+UNION ALL
+SELECT 'transactions', COUNT(*) FROM transactions;
+
