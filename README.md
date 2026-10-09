@@ -1,160 +1,169 @@
 # 🏦 Banking Customer & Risk Analytics
 
-An end-to-end data analytics project that turns raw banking data into an interactive **Power BI dashboard**, using **Python** for cleaning and **MySQL** for business analysis. It answers 35+ real banking questions — from *"which credit score band defaults the most?"* to *"which branches bring in the most deposits?"* — for both technical and non-technical audiences.
+An end-to-end data analytics project using **Python, MySQL, Power BI, and Machine Learning** to analyze banking customers, accounts, loans, transactions, and credit risk. The project transforms raw data into actionable business insights through data cleaning, SQL analysis, interactive dashboards, and exploratory loan-default prediction.
 
- **Full write-up:** see [`Banking_Customer_Risk_Analytics_Report.docx`](report/Banking_Customer_Risk_Analytics_Report.pdf) for the complete business report (executive summary, methodology, insights and recommendations).
+## 🎯 Project Objectives
 
----
+- Analyze customer demographics, income, and account balances.
+- Identify loan-default patterns and potential credit-risk indicators.
+- Evaluate branch performance and transaction trends.
+- Build interactive Power BI dashboards for business users.
+- Develop machine-learning models to explore loan-default prediction.
 
-## Project Objective
+## 🛠️ Tech Stack
 
-- Understand who the bank's customers are and how they behave
-- Monitor loan performance and identify default risk early
-- Evaluate which branches and regions perform best
-- Give business users a self-serve dashboard — no SQL or coding required
-
----
-
-## Tech Stack
-
-| Layer | Tools |
+| Area | Technologies |
 |---|---|
-| Data cleaning & EDA | Python (Pandas, NumPy, Matplotlib) |
-| Business analysis | MySQL / SQL |
-| Reporting | Power BI (DAX) |
-| Development | VS Code |
+| Data Cleaning & EDA | Python, Pandas, NumPy, Matplotlib |
+| Database & Analysis | MySQL, SQL |
+| Visualization | Power BI, DAX |
+| Machine Learning | Scikit-learn, Logistic Regression, Random Forest |
+| Tools | VS Code, Jupyter Notebook, MySQL Workbench, Git, GitHub |
 
----
+## 📊 Dataset Overview
 
-## Dataset
-Actual project have following data as data set is to large unable to upload so uploaded sample dataset
+The full working dataset contains approximately **690,100 records** across five datasets.
 
-Five relational tables, linked by customer, account and branch IDs:
+| Dataset | Records | Description |
+|---|---:|---|
+| Customers | 75,000 | Demographics, income, occupation, and segments |
+| Accounts | 85,000 | Account types and balances |
+| Loans | 30,000 | Loan amounts, interest rates, EMI, and default-related fields |
+| Transactions | 500,000 | Transaction amounts, dates, payment methods, and statuses |
+| Branches | 100 | Branch locations, regions, and related information |
 
-| Table | Records | Description |
-|---|---|---|
-| Customers | 75,000 | Demographics — age, gender, income, occupation, state, segment |
-| Accounts | 85,000 | Account type & balance (savings, checking, credit card, FD, loan account) |
-| Loans | 30,000 | Loan type, amount, credit score, EMI, default status |
-| Transactions | 500,000 | Payment mode, merchant, amount, date |
-| Branches | 100 | Location, region, size, deposits |
+*Note: Only sample data is uploaded to GitHub because the full working dataset is large.*
 
----
+## ⚙️ Project Workflow
 
-## Workflow
-
-```
-CSV Files
-   │
-   ▼
-Python  (cleaning • validation • feature engineering • EDA)
-   │
-   ▼
-MySQL   (35+ business-question SQL queries)
-   │
-   ▼
-Power BI  (interactive 4-page dashboard)
+```text
+Banking CSV Datasets
+        ↓
+Python: Cleaning, Validation & EDA
+        ↓
+MySQL: 35+ Business SQL Questions
+        ↓
+Power BI: Interactive Dashboards
+        ↓
+Machine Learning: Default Prediction
 ```
 
----
+### 1. Data Cleaning and Analysis
+Used Python to inspect datasets, handle data-quality issues, validate relationships, and prepare analytical features such as age groups, income groups, and credit-score categories.
 
-## Dashboard
+### 2. SQL Business Analysis
+Used MySQL queries, JOINs, aggregations, CTEs, and other SQL techniques to investigate customer segments, loan performance, transaction behavior, and branch activity.
 
-A  interactive Power BI report, each page built for a different audience:
+### 3. Power BI Dashboard
+Created a four-page interactive dashboard for different business audiences.
 
-| Page | Audience | What it shows |
-|---|---|---|
-| Executive Overview | Leadership | Headline KPIs, monthly transaction trend, customer segments, loan status |
-| Customer Analytics | Marketing / Relationship teams | Income groups, gender split, occupations, age groups |
-| Loan & Risk Analytics | Credit & risk teams | Loan amount by income group, EMI-to-income ratio, default rate by loan type |
-| Branch & Transaction Analytics | Branch / Payments teams | Top merchants, payment modes, region-wise transaction value, top branches by deposits |
+## 📈 Power BI Dashboard
 
-**Executive Overview**
-![Executive Overview](powerBI/executive_overview.png)
+The dashboard includes four analytical pages:
 
-**Customer Analytics**
-![Customer Analytics](powerBI/customer_analysis.png)
+- **Executive Overview:** Key performance indicators, customer segments, loan status, and transaction trends.
+- **Customer Analytics:** Customer demographics, occupations, income groups, and segments.
+- **Loan & Risk Analytics:** Loan distribution, credit scores, EMI-to-income ratio, and default patterns.
+- **Branch & Transaction Analytics:** Branch comparisons, payment methods, transaction values, and deposit-related measures.
 
-**Loan & Risk Analytics**
-![Loan & Risk Analytics](powerBI/loan_and_risk_analysis.png)
+### Dashboard Screenshots
 
-**Branch & Transaction Analytics**
-![Branch & Transaction Analytics](powerBI/branch_and_transaction_analytics.png)
+**1. Executive Overview**
 
-> Screenshots live in `/images` — update the paths above if you use a different folder.
+Add your screenshot here by uploading it to the `images/` folder.
 
----
+![Executive Overview](images/executive_overview.png)
 
-## ⭐ Key Features
+**2. Customer Analytics**
 
-- End-to-end pipeline: raw CSVs → Python cleaning → MySQL analysis → Power BI dashboard
-- 35+ SQL business questions covering customers, loans, transactions and branches
-- Engineered business fields: age group, income group, EMI-to-income ratio, credit score category, high-risk/low-risk loan flag
-- Fully interactive dashboard with cross-page filters (region, branch, state, gender, loan type)
-- KPI cards for at-a-glance monitoring
+![Customer Analytics](images/customer_analysis.png)
 
----
+**3. Loan & Risk Analytics**
 
-## 💼 Business Questions Answered
+![Loan & Risk Analytics](images/loan_and_risk_analysis.png)
 
-- Which customer segments are most valuable?
-- Which loan types and credit-score bands have the highest default rate?
-- Which branches and regions generate the most deposits and transaction value?
-- Which payment methods are most used, and what's the transaction success rate?
-- How does EMI-to-income burden vary across income groups?
+**4. Branch & Transaction Analytics**
 
-*(Full SQL for all questions is in [`/sql`](sql).)*
+![Branch & Transaction Analytics](images/branch_and_transaction_analytics.png)
 
----
 
-## 📈 Key Insights
+## 🔍 Key Business Insights
 
-- Home Loans make up **77%** of the loan portfolio — the bank's risk is closely tied to housing.
-- Overall loan **default rate is 5.39%**, but customers with "Poor" credit scores default at **21.68%** — about 4x the average.
-- **UPI is the leading payment method** (49.8% of all transactions), ahead of debit and credit cards.
-- A small group of top branches (Vijayawada, Ludhiana, Bhopal, Aurangabad, Agra) each hold ₹100M+ in deposits.
-- Platinum customers are the largest segment (43.8%), pointing to a broadly affluent, loyal customer base.
-- The West region trails other regions in transaction value, suggesting room for growth.
+- The `default_flag` field has a positive-label rate of **5.39%**.
+- The Poor credit-score category has a reported default rate of **21.68%**.
+- UPI accounts for approximately **49.8%** of transactions.
+- Platinum customers represent approximately **43.8%** of the customer base.
+- Transaction and branch analysis helps identify areas for operational investigation.
 
-*(See the full report for the complete list of insights and recommendations.[`/report`](report/Banking_Customer_Risk_Analytics_Report.pdf))*
+These findings describe the current dataset and should be validated before being used for real banking decisions.
 
----
+## 🤖 Machine Learning: Loan-Default Prediction
+
+Built and compared two classification models using loan and customer features, including credit score, loan amount, interest rate, EMI, annual income, age, and occupation.
+
+| Metric | Logistic Regression | Random Forest |
+|---|---:|---:|
+| Precision | 12.12% | 20.56% |
+| Recall | 72.45% | 6.81% |
+| F1-score | 20.76% | 10.23% |
+| ROC-AUC | 0.7777 | 0.7648 |
+
+**Key finding:** Logistic Regression detected more positive default labels, while Random Forest had higher precision at the tested threshold. Threshold analysis also demonstrated the trade-off between missed defaults and false-positive alerts.
+
+These are exploratory results. Further validation, threshold tuning on validation data, and data-quality checks are needed before considering practical use.
+
+## 💼 Business Recommendations
+
+- Investigate credit-score and affordability indicators when assessing loan risk.
+- Monitor transaction failures and payment-channel performance.
+- Compare branch workloads and deposit measures to identify operational improvement opportunities.
+- Use customer segmentation to investigate suitable products and relationship strategies.
+- Standardize default definitions and monetary units to improve reporting reliability.
+
+## ⚠️ Limitations
+
+- The repository contains sample data rather than the complete working dataset.
+- `default_flag` contains 1,617 positive labels, while `loan_status` contains 452 loans marked `Defaulted`; these definitions need reconciliation.
+- Currency units and some reported portfolio metrics require verification.
+- The ML models have not been validated on external or future data and are not production-ready.
 
 ## 📁 Repository Structure
 
-```
-├── sample_data/         # leaned CSV files(1000)
-├── notebooks/           # Python cleaning & EDA scripts/notebooks
-├── sql/                 # SQL scripts for all business questions
-├── powerbi/             # Power BI (.pbix) file
-├── screenshots/         # Dashboard page screenshots (used above)
-├── Banking_Customer_Risk_Analytics_Report.docx   # Full business report
+```text
+Banking-Customer-Risk-Analytics/
+├── sample_data/       # Sample datasets
+├── notebooks/         # Python cleaning and EDA
+├── sql/               # SQL business queries
+├── powerBI/           # Power BI report (.pbix)
+├── images/            # Dashboard screenshots
+├── ml/                # ML notebooks or scripts
+├── reports/           # Business report and ML results
+├── requirements.txt   # Python dependencies
 └── README.md
 ```
 
----
+*Adjust folder names to match your actual repository.*
 
 ## 🚀 How to Run
 
-1. Clone this repository and install Python requirements: `pip install -r requirements.txt`
-2. Run the notebooks/scripts in `/notebook` to clean the raw data in `/sample_dataset`
-3. Load the cleaned CSVs into MySQL using the schema provided, then run the scripts in `/sql`
-4. Open the `.pbix` file in `/powerBI` with Power BI Desktop, point it at your MySQL instance, and refresh
+1. Clone the repository.
+2. Install the dependencies using `pip install -r requirements.txt`.
+3. Run the available Python notebooks or scripts to inspect and prepare the sample data.
+4. Configure MySQL, load the prepared datasets, and execute the SQL scripts.
+5. Open the `.pbix` file in Power BI Desktop and configure the data source.
+6. Run the ML notebook or script using the required input data and review its evaluation results.
 
----
+## 🔮 Future Improvements
 
-## 🚀 Future Improvements
-
-- Microsoft Fabric / Azure SQL Database integration for cloud-scale storage
-- A predictive loan-default model (machine learning) to flag risk before a loan is approved
-- Real-time / streaming dashboard refresh
-- Customer churn prediction
-
----
+- Improve ML validation and credit-risk evaluation.
+- Automate data-quality checks.
+- Explore cloud integration and scheduled data refresh.
+- Develop additional predictive analytics after defining suitable business targets.
 
 ## 👩‍💻 Author
 
 **Gayatri Kasbekar**
-- 📧 gayatrikasbekar13@gmail.com
-- 💻 GitHub: [github.com/Gayatrik04](https://github.com/Gayatrik04)
-- 🔗 LinkedIn:[linkedine.com/https://www.linkedin.com/in/gayatri-kasbekar-674a883a3/](https://www.linkedin.com/in/gayatri-kasbekar-674a883a3/) 
+
+- **GitHub:** [Gayatrik04](https://github.com/Gayatrik04)
+- **LinkedIn:** [Gayatri Kasbekar](https://www.linkedin.com/in/gayatri-kasbekar-674a883a3/)
+- **Email:** gayatrikasbekar1311@gmail.com
