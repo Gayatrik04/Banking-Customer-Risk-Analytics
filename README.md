@@ -1,26 +1,31 @@
 # 🏦 Banking Customer & Risk Analytics
 
-An end-to-end data analytics project using **Python, MySQL, Power BI, and Machine Learning** to analyze banking customers, accounts, loans, transactions, and credit risk. The project transforms raw data into actionable business insights through data cleaning, SQL analysis, interactive dashboards, and exploratory loan-default prediction.
+An end-to-end data analytics project that combines Python, MySQL, Power BI, machine learning, and FastAPI to analyze banking customers, loan portfolios, transactions, and credit risk.
 
-## 🎯 Project Objectives
+## Project Overview
+This project analyzes banking data to understand customer behavior, loan distribution, repayment risk, transaction patterns, and branch performance. It includes data processing, SQL-based analysis, interactive dashboards, machine learning models for loan default prediction, and an API for demonstrating model predictions.
 
-- Analyze customer demographics, income, and account balances.
-- Identify loan-default patterns and potential credit-risk indicators.
-- Evaluate branch performance and transaction trends.
-- Build interactive Power BI dashboards for business users.
-- Develop machine-learning models to explore loan-default prediction.
+## Project Objectives
+- Analyze customer demographics and account distribution.
+- Evaluate loan portfolios and identify patterns associated with loan defaults.
+- Analyze transaction channels and customer activity.
+- Compare business performance across branches.
+- Build machine learning models to estimate loan default risk.
+- Present key metrics through interactive Power BI dashboards.
+- Expose a demonstration prediction endpoint using FastAPI.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-| Area | Technologies |
-|---|---|
-| Data Cleaning & EDA | Python, Pandas, NumPy, Matplotlib |
-| Database & Analysis | MySQL, SQL |
-| Visualization | Power BI, DAX |
-| Machine Learning | Scikit-learn, Logistic Regression, Random Forest |
-| Tools | VS Code, Jupyter Notebook, MySQL Workbench, Git, GitHub |
+- Python — data cleaning, exploratory data analysis, and machine learning.
+- Pandas and NumPy — data manipulation and numerical analysis.
+- Matplotlib and Seaborn — data visualization.
+- MySQL — relational database storage and SQL analysis.
+- Power BI — interactive reporting and dashboards.
+- Scikit-learn — model training and evaluation.
+- FastAPI — model prediction API.
+- Git and GitHub — version control and project management.
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The full working dataset contains approximately **690,100 records** across five datasets.
 
@@ -32,20 +37,23 @@ The full working dataset contains approximately **690,100 records** across five 
 | Transactions | 500,000 | Transaction amounts, dates, payment methods, and statuses |
 | Branches | 100 | Branch locations, regions, and related information |
 
-*Note: Only sample data is uploaded to GitHub because the full working dataset is large.*
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 ```text
-Banking CSV Datasets
+Banking CSV datasets
         ↓
-Python: Cleaning, Validation & EDA
+Python: cleaning, validation and exploratory analysis
         ↓
-MySQL: 35+ Business SQL Questions
+MySQL: relational data and business SQL analysis
         ↓
-Power BI: Interactive Dashboards
+Power BI: interactive business dashboards
         ↓
-Machine Learning: Default Prediction
+Machine learning: exploratory loan-default classification
+        ↓
+FastAPI: validated prediction endpoint
+        ↓
+Pytest: automated API checks
 ```
 
 ### 1. Data Cleaning and Analysis
@@ -57,7 +65,7 @@ Used MySQL queries, JOINs, aggregations, CTEs, and other SQL techniques to inves
 ### 3. Power BI Dashboard
 Created a four-page interactive dashboard for different business audiences.
 
-## 📈 Power BI Dashboard
+## Power BI Dashboard
 
 The dashboard includes four analytical pages:
 
@@ -87,32 +95,60 @@ Add your screenshot here by uploading it to the `images/` folder.
 ![Branch & Transaction Analytics](images/branch_and_transaction_analytics.png)
 
 
-## 🔍 Key Business Insights
+## Key Business Insights
 
-- The `default_flag` field has a positive-label rate of **5.39%**.
-- The Poor credit-score category has a reported default rate of **21.68%**.
-- UPI accounts for approximately **49.8%** of transactions.
-- Platinum customers represent approximately **43.8%** of the customer base.
-- Transaction and branch analysis helps identify areas for operational investigation.
+The following findings were observed in the current working dataset:
+- Observed positive default-label rate: 1,617 of 30,000 loans, or approximately 5.39%, have default_flag = Yes.
+- Credit-score pattern: The reported default-label rate for the category classified as poor credit score was approximately 21.68%.
+- Transaction channel: UPI represented approximately 49.8% of recorded transactions.
+- Customer segmentation: Platinum customers represented approximately 43.8% of the customer base.
 
-These findings describe the current dataset and should be validated before being used for real banking decisions.
+These are descriptive findings from the project dataset, not general conclusions about real-world banking portfolios. Validate the business definitions, category boundaries, and source data before using them for operational decisions.
 
-## 🤖 Machine Learning: Loan-Default Prediction
+## Machine Learning: Loan-Default Prediction
 
-Built and compared two classification models using loan and customer features, including credit score, loan amount, interest rate, EMI, annual income, age, and occupation.
-
-| Metric | Logistic Regression | Random Forest |
+Two classification models were evaluated for loan default prediction:
+- Logistic Regression
+- Random Forest Classifier
+The models use features such as loan amount, interest rate, EMI, credit score, age, annual income, loan type, occupation, marital status, and customer segment.
+Model Evaluation
+The reported results at a classification threshold of 0.50 are:
+| Metric for the positive class | Logistic Regression | Random Forest |
 |---|---:|---:|
-| Precision | 12.12% | 20.56% |
-| Recall | 72.45% | 6.81% |
-| F1-score | 20.76% | 10.23% |
-| ROC-AUC | 0.7777 | 0.7648 |
+| Accuracy | 94.47% | 93.12% |
+| Precision | 9.09% | 21.43% |
+| Recall | 0.31% | 7.43% |
+| F1-score | 0.60% | 11.03% |
+| ROC-AUC | 0.7783 | 0.7648 |
+| Average precision | 0.1474 | 0.1348 |
+| Brier score | 0.0489 | 0.0586 |
 
-**Key finding:** Logistic Regression detected more positive default labels, while Random Forest had higher precision at the tested threshold. Threshold analysis also demonstrated the trade-off between missed defaults and false-positive alerts.
+The evaluation set contained 6,000 records, including 323 positive default labels and 5,677 negative labels.
 
-These are exploratory results. Further validation, threshold tuning on validation data, and data-quality checks are needed before considering practical use.
+Although accuracy is relatively high, both models have low recall at the 0.50 threshold. This means they miss many positive default cases. Accuracy alone is therefore not sufficient to judge model usefulness for this imbalanced classification problem.
 
-## 💼 Business Recommendations
+A lower threshold was also explored for Logistic Regression. Threshold selection should be performed using validation data before evaluating the final model on a separate test set.
+
+## FastAPI Prediction Service
+The project includes a FastAPI service for demonstrating loan default predictions.
+
+Available endpoints:
+- GET / — returns a welcome message and model name.
+- GET /health — checks service health.
+- GET /debug/model — displays model-related diagnostic information.
+- POST /predict — accepts loan and applicant details and returns a prediction.
+Run the API
+Install the dependencies and start the service using:
+
+py -m uvicorn api.app:app --reload
+
+Open the interactive API documentation at:
+
+http://127.0.0.1:8000/docs
+
+The API is intended for demonstration and educational purposes, not for making real lending decisions.
+
+## Business Recommendations
 
 - Investigate credit-score and affordability indicators when assessing loan risk.
 - Monitor transaction failures and payment-channel performance.
@@ -120,47 +156,34 @@ These are exploratory results. Further validation, threshold tuning on validatio
 - Use customer segmentation to investigate suitable products and relationship strategies.
 - Standardize default definitions and monetary units to improve reporting reliability.
 
-## ⚠️ Limitations
-
-- The repository contains sample data rather than the complete working dataset.
-- `default_flag` contains 1,617 positive labels, while `loan_status` contains 452 loans marked `Defaulted`; these definitions need reconciliation.
-- Currency units and some reported portfolio metrics require verification.
-- The ML models have not been validated on external or future data and are not production-ready.
-
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 Banking-Customer-Risk-Analytics/
-├── sample_data/       # Sample datasets
-├── notebooks/         # Python cleaning and EDA
-├── sql/               # SQL business queries
-├── powerBI/           # Power BI report (.pbix)
-├── images/            # Dashboard screenshots
-├── ml/                # ML notebooks or scripts
-├── reports/           # Business report and ML results
-├── requirements.txt   # Python dependencies
+├── api/
+├── artifacts/
+├── data/
+├── images/
+├── ml/
+├── notebook/
+├── Pipeline flow/
+├── report/
+├── sql/
+├── tests/
+│   └── test_api.py
 └── README.md
 ```
 
-*Adjust folder names to match your actual repository.*
+## Current Limitations and Future Improvements
+- **Synthetic Data:** The project uses synthetic banking data for analysis and demonstration. Results may differ from real-world banking data.
+- **Model Performance:** The classification models were evaluated using multiple metrics, including accuracy, precision, recall, and ROC-AUC. Further tuning could improve the identification of loan default cases.
+- **Future Enhancements:** Additional model validation, explainability techniques, and API improvements could strengthen the project in future iterations.
 
-## 🚀 How to Run
+## Conclusion
+This project demonstrates an end-to-end banking analytics workflow involving data preparation, relational SQL analysis, interactive Power BI reporting, machine learning experimentation, and API-based prediction. It highlights how data analytics and predictive modeling can support the investigation of customer behavior and loan risk while emphasizing the importance of data quality and appropriate model evaluation.
 
-1. Clone the repository.
-2. Install the dependencies using `pip install -r requirements.txt`.
-3. Run the available Python notebooks or scripts to inspect and prepare the sample data.
-4. Configure MySQL, load the prepared datasets, and execute the SQL scripts.
-5. Open the `.pbix` file in Power BI Desktop and configure the data source.
-6. Run the ML notebook or script using the required input data and review its evaluation results.
 
-## 🔮 Future Improvements
-
-- Improve ML validation and credit-risk evaluation.
-- Automate data-quality checks.
-- Explore cloud integration and scheduled data refresh.
-- Develop additional predictive analytics after defining suitable business targets.
-
-## 👩‍💻 Author
+## Author
 
 **Gayatri Kasbekar**
 

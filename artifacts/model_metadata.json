@@ -1,0 +1,33 @@
+{
+    "model_name": "Logistic Regression",
+    "target": "default_flag",
+    "threshold": 0.1,
+    "features": [
+        "loan_amount",
+        "interest_rate",
+        "emi",
+        "credit_score",
+        "age",
+        "annual_income",
+        "loan_type",
+        "occupation",
+        "marital_status",
+        "customer_segment"
+    ],
+    "numeric_features": [
+        "loan_amount",
+        "interest_rate",
+        "emi",
+        "credit_score",
+        "age",
+        "annual_income"
+    ],
+    "categorical_features": [
+        "loan_type",
+        "occupation",
+        "marital_status",
+        "customer_segment"
+    ],
+    "positive_class": 1,
+    "threshold_status": "provisional; requires validation"
+}
